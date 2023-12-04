@@ -1,0 +1,5 @@
+The tenant started her tenancy on a Wednesday, paying one week’s rent in advance for the rental week of a Wednesday to Tuesday. The landlord considered her rent to be due on a Thursday for payment through to the following Wednesday. Because the tenant’s weekly payment only took her through to the Tuesday of each week, the landlord’s computer system treated her as being in arrears. The tenant was harassed by the landlord with phone calls and text messages asking her to pay an extra day’s rent.
+
+The Tenancy Tribunal decided that the landlord had breached the requirement that they not require the next rent payment before rent already paid expires, and that this was intentional because the rent record clearly showed the tenant was paying on a Wednesday for a Wednesday to Tuesday rental week. Because of this, and the way the tenant was harassed, they awarded exemplary damages of $340. This was at the low end of exemplary damages because it was not considered to be the usual behaviour of this landlord.
+
+Tenancy Tribunal Order 4141577, see p5

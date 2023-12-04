@@ -1,0 +1,3 @@
+The Tenancy Tribunal noted: “The term 'substantial' is not defined in the RTA. Some of the older Tribunal cases have suggested a 'rule of thumb' of 10% over market rent. In my view that is not a helpful guideline. Where rents increase at a rate above inflation, rent will eventually assume a greater proportion of household incomes. This will in turn reduce the availability of income for other household expenditure. In these circumstances, it is arguable that even a relatively modest increase over market rent could have a substantial effect.” 
+
+J Smith Adjudicator, Tenancy Tribunal Order 4235532, at paragraph 23.

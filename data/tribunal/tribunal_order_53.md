@@ -1,0 +1,5 @@
+The tenants claimed the landlord was in breach of the requirements around vacant possession because the landlord had stored a considerable amount of their own belongings in the garden shed and in part of the garage. The garden shed was so full of the landlord’s belongings that the tenants could not use it.
+ 
+The adjudicator agreed and said that “all of the landlord’s belongings must be removed from the premises unless they are a chattel provided as part of the tenancy and for the tenant’s use”. Even though the tenants had been provided an inventory list saying what items were in the property, it was not clear from the inventory list how much this would interfere with the tenant’s use and enjoyment of the property, and did not override their right to vacant possession of the property. The tenants were awarded $1,100 in damages as compensation.
+ 
+Tenancy Tribunal Order 4250952 paras [14]-[28].
