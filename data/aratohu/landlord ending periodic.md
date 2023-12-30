@@ -11,13 +11,12 @@ The landlord can end a periodic tenancy with 63 days’ notice if they require t
 
 Landlords can also issue a 63-day notice to end the tenancy if the property is required for an employee and this is clearly spelled out in your tenancy agreement.
 
-The landlord can end a periodic tenancy with 90 days’ notice for a range of reasons related to changes to the property (s 51(2)(s) RTA). These include:
-
-    The landlord intends to put the property on the market within 90 days of the tenant leaving the property.
-    The owner has sold the house and the sale requires the property to be vacant.
-    The landlord is going to change the use of the property (eg, to use it as a business premises).
-    The landlord is going to renovate, repair, or redevelop the property starting within 90 days of the termination notice and it would not be practical for the tenant to remain in the property.
-    The premises are going to be demolished, with work starting within 90 days of the tenancy ending.
+The landlord can end a periodic tenancy with 90 days’ notice for a range of reasons related to changes to the property (s 51(2)(s) RTA). These include 
+The landlord intends to put the property on the market within 90 days of the tenant leaving the property.
+The owner has sold the house and the sale requires the property to be vacant.
+The landlord is going to change the use of the property (eg, to use it as a business premises).
+The landlord is going to renovate, repair, or redevelop the property starting within 90 days of the termination notice and it would not be practical for the tenant to remain in the property.
+The premises are going to be demolished, with work starting within 90 days of the tenancy ending.
 
 A landlord can cancel a termination notice, but only with the agreement of the tenant.
 
@@ -32,8 +31,8 @@ The tenant then has 14 days to challenge the termination notice in the Tenancy T
 "Physical assault" means the act of intentionally applying force to the person of another, directly or indirectly.
 The landlord must use the Approved Form to give notice and must accompany any notice to evict the tenant for assault with evidence that the Police have charged the tenant in relation to this assault.This evidence can be either:
 
-    The Police charging document or
-    Written confirmation from the Police that charges for assault have been filed.
+The Police charging document or
+Written confirmation from the Police that charges for assault have been filed.
 
 When issuing the notice, the landlord must advise the tenant in the notice that they have the right to challenge the notice through the Tenancy Tribunal. If the tenant does challenge the notice then the notice is suspended and the tenant can remain in the premises until the Tenancy Tribunal has heard the case. It will then be for the landlord to prove that the physical assault occurred.
 
