@@ -4,12 +4,11 @@ The law says that a landlord has to maintain their rental property in a reasonab
 Tenant’s maintenance responsibilities
 
 Unless stated otherwise in the tenancy agreement, tenants’ maintenance responsibilities include:
-
-    keeping the place reasonably clean and tidy,
-    weeding the garden and mowing lawns,
-    washing exterior windows,
-    replacing standard light bulbs, and
-    telling the landlord immediately when things need to be maintained or repaired.
+keeping the place reasonably clean and tidy,
+weeding the garden and mowing lawns,
+washing exterior windows,
+replacing standard light bulbs, and
+telling the landlord immediately when things need to be maintained or repaired.
 
 What if the landlord won’t do maintenance?
 

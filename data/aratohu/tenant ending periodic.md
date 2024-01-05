@@ -1,4 +1,3 @@
-
 Ending a tenancy by giving notice
 
 A tenant can end a periodic tenancy by giving 28 days’ notice (s 51(2) RTA). They do not have to provide a reason for ending the tenancy. Be aware that if there are multiple tenants named on the tenancy agreement, and any one of them gives notice, this ends the tenancy for all the tenants.

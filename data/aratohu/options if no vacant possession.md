@@ -1,5 +1,3 @@
-
-
 If a tenant finds that the landlord hasn’t given them vacant possession at the start of a tenancy, they can ask the landlord to sort this out.
 
 However, if it’s a clear breach of their right to vacant possession, the tenant may decide they want to end the tenancy instead.

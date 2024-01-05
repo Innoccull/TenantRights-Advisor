@@ -1,5 +1,3 @@
-
-
 Under the healthy homes draught-stopping standard, landlords have to close up “unreasonable” holes and gaps that let in draughts, such as under doorways, through skylights and old floorboards. Draughts let cold air inside, making a home harder to heat.
 
 All private rentals must comply with all healthy homes standards, including the heating standard, within 120 days of any new or renewed tenancy on or after 1 July 2021, with all private rentals complying by 1 July 2025.

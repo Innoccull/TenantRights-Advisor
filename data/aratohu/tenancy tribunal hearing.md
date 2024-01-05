@@ -1,5 +1,3 @@
-
-
 Going to the Tenancy Tribunal can feel daunting for a tenant. For many people, it may be their first experience of 'going to court'. This can seem big and scary, but knowing what to expect can help to reassure the tenant and calm their emotions.
 
 Tenants Protection Association Auckland has produced two useful guides for preparing for a Tenancy Tribunal hearing, one for tenants, and one for advocates.

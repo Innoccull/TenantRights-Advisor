@@ -1,4 +1,3 @@
-
 What is a room-by-room tenancy?
 
 A room-by-room tenancy is one where the tenant only rents the room, rather than the whole flat. Facilities such as a kitchen and bathrooms are shared by the different tenants.

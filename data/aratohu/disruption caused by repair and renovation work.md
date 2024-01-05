@@ -1,5 +1,3 @@
-
-
 Ideally the landlord should make sure all necessary maintenance, repairs and cleaning is done before the tenant moves in. If work does need to be done to a tenanted property then the landlord has an obligation to ensure the tenant’s quiet enjoyment of the property (s 38 RTA). Any work which needs to be done on a rental property should be done in a way which minimises disruption to the tenant.
 
 If repairs or maintenance are necessary during the tenancy the landlord has an obligation to ensure the tenant’s quiet enjoyment of the property.
@@ -15,7 +13,5 @@ If the landlord is undertaking necessary maintenance or repairs, then they are r
 The landlord must take reasonable steps to ensure that no damage occurs to the property of the tenant and should compensate them is their property is intentionally or carelessly damaged.
 
 If the repair work is going to cause substantial disruption and make it difficult for the tenant to continue living in the premises (for example if the power or water are going to be off for substantial periods) then there are two options:
-
-    The landlord can end a periodic tenancy with 90 days’ notice if it would not be practical for the tenant to remain in the property.
-    The landlord could offer to provide or pay for equivalent accommodation during the work period. If the tenant does not want to take up this offer then they could end the tenancy, either by giving notice, if on a periodic tenancy, seeking the landlord’s agreement to end a fixed term tenancy or applying to the Tenancy Tribunal to end the tenancy early.
-
+The landlord can end a periodic tenancy with 90 days’ notice if it would not be practical for the tenant to remain in the property.
+The landlord could offer to provide or pay for equivalent accommodation during the work period. If the tenant does not want to take up this offer then they could end the tenancy, either by giving notice, if on a periodic tenancy, seeking the landlord’s agreement to end a fixed term tenancy or applying to the Tenancy Tribunal to end the tenancy early.

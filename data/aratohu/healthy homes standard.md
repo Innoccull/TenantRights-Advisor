@@ -1,5 +1,3 @@
-
-
 A warm, dry house is really important for the health and wellbeing of tenants. Unfortunately however, many New Zealand homes are not in a good state.
 
 The law is getting tougher on landlords who try and rent out cold and mouldy houses. From 1 July 2021 some rental properties will be required to meet the healthy homes standards, with all New Zealand rental properties having to meet the standards by 1 July 2025.
@@ -7,17 +5,15 @@ The law is getting tougher on landlords who try and rent out cold and mouldy hou
 These standards set out the minimum requirements that landlords have to meet in terms of heating, insulation, ventilation, moisture and drainage, and draught stopping (see the Residential Tenancies (Healthy Homes Standards) Regulations 2019).
 
 There are different timeframes for meeting the healthy homes standards, depending on the type of rental property:
-
-    Private rental properties must meet the standards within 120 days of any new or renewed tenancy that starts after 1 July 2021.
-    All boarding houses must comply by 1 July 2021.
-    All houses rented by Kāinga Ora (formerly Housing New Zealand) and registered Community Housing Providers must comply by 1 July 2024.
-    All rental properties must comply by 1 July 2025.
+Private rental properties must meet the standards within 120 days of any new or renewed tenancy that starts after 1 July 2021.
+All boarding houses must comply by 1 July 2021.
+All houses rented by Kāinga Ora (formerly Housing New Zealand) and registered Community Housing Providers must comply by 1 July 2024.
+All rental properties must comply by 1 July 2025.
 
 There are three situations where landlords may not have to comply with the healthy homes standards or the timeframes:
-
-    The house is going to be demolished or substantially rebuilt.
-    The tenant is the immediate former owner of the rental property.
-    The flat is part of a bigger building that the landlord doesn’t own (eg, an apartment).
+The house is going to be demolished or substantially rebuilt.
+The tenant is the immediate former owner of the rental property.
+The flat is part of a bigger building that the landlord doesn’t own (eg, an apartment).
 
 There are also some specific exemptions that apply to particular standards. These generally relate to how reasonably practicable it is to carry out the work.
 

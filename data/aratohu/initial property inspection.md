@@ -1,5 +1,3 @@
-
-
 The tenant needs to make sure that they do a thorough check of the property at the beginning of the tenancy and record an accurate picture of the state the property is in.
 Property inspection form
 

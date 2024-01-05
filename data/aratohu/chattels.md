@@ -1,4 +1,3 @@
-
 What are chattels?
 
 Chattels include things like curtains, rugs, furniture and washing machines.
@@ -18,9 +17,8 @@ Tenants must leave behind all of the landlord’s chattels when they shift out (
 A landlord can’t come and take away any of their chattels during the tenancy without the tenant’s agreement. If they do agree, this will be a change to the tenancy agreement, and should be recorded in writing, and signed and dated (s 13B RTA).
 
 There are two main problems that can arise in relation to chattels.
-
-    Maintenance of the landlord's chattels and use.
-    Storage of the landlord’s chattels.
+Maintenance of the landlord's chattels and use.
+Storage of the landlord’s chattels.
 
 Because of these potential problems, a tenant might decide to ask their landlord not to leave behind certain chattels at the start of the tenancy.
 

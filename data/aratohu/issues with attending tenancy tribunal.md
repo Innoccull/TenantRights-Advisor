@@ -1,5 +1,3 @@
-
-
 Once a Tribunal date has been set, the tenant will be notified by email, text, and / or letter. The Tribunal will not inform the tenant of the scheduled end time, but this can be checked online, or with the local Tribunal closer to the hearing.
 Delaying a hearing / adjournments
 

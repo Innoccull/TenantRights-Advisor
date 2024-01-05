@@ -1,5 +1,3 @@
-
-
 The payment of rent is a critical part of the landlord / tenant relationship - particularly from the perspective of the landlord. Because of this, rent is often one of the issues leading to conflict or to a dispute between the landlord and tenant. 
 
 The tenant and the landlord have to agree how the rent will be paid (ie, the place or bank account number where the rent is to be paid) and include details about this in the tenancy agreement (s 13(l) RTA). 
@@ -18,8 +16,6 @@ Note
 Tenants should be strongly encouraged to pay into the landlord’s bank account (preferably through an automatic payment), rather than in cash. 
 
 There are several reasons why paying rent by automatic payment is preferable: 
-
-    There is an automatic record of the payment, which it is difficult to dispute. 
-    It is more secure. The tenant does not have to hold onto cash, with the risk that it may be stolen or spent on something else before making the rent payment.
-    Once it’s set up, it’s a straightforward process for the tenant (as long as they ensure there are adequate funds in their account to make the payment).
-
+There is an automatic record of the payment, which it is difficult to dispute. 
+It is more secure. The tenant does not have to hold onto cash, with the risk that it may be stolen or spent on something else before making the rent payment.
+Once it’s set up, it’s a straightforward process for the tenant (as long as they ensure there are adequate funds in their account to make the payment).

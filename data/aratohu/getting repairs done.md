@@ -1,5 +1,3 @@
-
-
 Tenants must tell the landlord straight away if they are aware something needs to be repaired or maintained, no matter how it happened or who caused the damage. The landlord should arrange for the repairs to occur in a reasonable time.
 
 If the landlord gives them permission to do the work, then yes, tenants are allowed to undertake repairs themselves for damage they (or their guests) are responsible for (s 49B(5)). However, it’s usually wiser to get the job done professionally. If it’s not done properly, or to the landlord’s satisfaction, then the tenant may have to pay for the job to be redone.

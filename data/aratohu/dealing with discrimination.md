@@ -1,29 +1,25 @@
-
-
 Landlords have some control over who they rent their properties out to (eg, they may decide they don’t want to rent to people who have pets), but they must not unlawfully discriminate against people when deciding whether or not to offer them a place to rent (s 12(1) RTA). They also can’t tell someone else, like a property agent, to discriminate on their behalf.
 
 Unlawful grounds of discrimination (s 21 Human Rights Act) are:
-
-    sex (which includes being pregnant)
-    marital status (which includes being single, married, widowed, separated or divorced)
-    religious beliefs, ethical beliefs (which means lack of religious belief) or political beliefs
-    colour, race or ethnicity
-    sexual orientation
-    employment status (which includes being on a benefit or unemployed)
-    family status (which includes having children or no children, being married or in a civil union, or being related to a particular person)
-    age (with some exceptions) and
-    disability (with some exceptions)
+sex (which includes being pregnant)
+marital status (which includes being single, married, widowed, separated or divorced)
+religious beliefs, ethical beliefs (which means lack of religious belief) or political beliefs
+colour, race or ethnicity
+sexual orientation
+employment status (which includes being on a benefit or unemployed)
+family status (which includes having children or no children, being married or in a civil union, or being related to a particular person)
+age (with some exceptions) and
+disability (with some exceptions)
 
 The law also protects people who are already tenants. So if a landlord finds out that a couple aren’t married, and terminates the tenancy or refuses to renew it because of this, then this is unlawful discrimination (on the basis of family status).
 
 Prospective tenants have the right to make up their own mind as to whether a property will suit them. For example, whether a property next to a busy road is suitable for kids. By contrast, the landlord cannot simply predetermine that their property is unsuitable for particular tenants on account of one of the factors in the list above. Advertising for rentals should not include factors that are discriminatory, eg, "Would not suit children" or "Suitable for professional couple".
 
 There are some important exceptions regarding discrimination when providing accommodation, including:
-
-    renting to 16 and 17 year olds (see "Renting to minors", below),
-    disability (see more information below),
-    choosing flatmates or private boarders, and
-    special types of accommodation, like retirement homes and school hostels.
+renting to 16 and 17 year olds (see "Renting to minors", below),
+disability (see more information below),
+choosing flatmates or private boarders, and
+special types of accommodation, like retirement homes and school hostels.
 
 Without evidence (eg, an advertisement or text messages), it can be very hard to prove that a landlord has unlawfully discriminated against someone.
 
@@ -37,8 +33,6 @@ A person can sign a tenancy agreement if they are under 18, but it can’t be en
 To ratify a tenancy agreement, the tenant or the landlord need to apply to the Tenancy Tribunal. A mediator will go through the tenancy agreement with both of them, and if they agree the agreement is fair, they can write a mediated order which then gets confirmed by the Tribunal. Once the agreement is ratified by the Tribunal it becomes legally binding and they’ll be treated as if they were 18 when they signed it.
 
 If a tenant signs a tenancy agreement before they turn 18, it will become legally enforceable from their 18th birthday (or the date of their marriage / civil union, if this happens earlier) unless they apply to the Tenancy Tribunal within ten working days after their birthday / marriage / civil union to let them off the obligations in the agreement.
-
- 
 
 The standard Tenancy Services residential tenancy agreement has a tick box that notes whether the tenant is under 18.
 

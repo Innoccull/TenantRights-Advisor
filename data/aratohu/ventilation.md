@@ -1,5 +1,3 @@
-
-
 The healthy homes ventilation standard tells landlords what they must do so that their rental properties can be aired out (ventilated) easily. Problems with mould are often caused by damp air remaining inside a house.  Damp air is also harder to heat.
 
 Rental homes must have windows that can open (and stay open) in the living room, dining room, kitchen and bedrooms.

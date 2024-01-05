@@ -1,5 +1,3 @@
-
-
 Some landlords will try and create rental properties in places that aren't suitable for people to live in, or don't have council consent. These may include garages, commercial buildings, and separating off parts of existing houses.
 
 The Tenancy Tribunal has powers to protect tenants who find that they are living in an "unlawful residential premises" (s 78A RTA), including refunding all or part of the rent they have paid.
@@ -17,9 +15,8 @@ The tenant could also ask for a refund of rent paid, and / or a rent reduction f
 The Tenancy Tribunal has the power to declare that a house or flat is an "unlawful residential premises" (s 78A RTA).
 
 The Tribunal can do this if
-
-    the house or flat can't lawfully be used for living in, and
-    the landlord's failure to follow the relevant laws caused or contributed to this problem.
+the house or flat can't lawfully be used for living in, and
+the landlord's failure to follow the relevant laws caused or contributed to this problem.
 
 These relevant laws include the landlord's duty to take reasonable steps to ensure there is no legal impediment to people living at the property (s 36 RTA), and their duty to follow all relevant building, and health and safety laws (s 45(1)(c) RTA).
 

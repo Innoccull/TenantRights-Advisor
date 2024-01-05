@@ -1,13 +1,10 @@
-
-
 Tenants need to be careful about any special conditions in the tenancy agreement that have the effect of reducing or increasing a rent payment. These are likely to be unenforceable (s 32 RTA). 
 
 Examples of unenforceable rent clauses include:
-
-    An increased rent amount or fee is payable by the tenant if they fail to do something (eg, pay the rent on time).
-    If the tenant misses a rent payment, they must pay all the rent owing up until the end of the tenancy.
-    A 10% rent discount is available if tenants pay on time. 
-    An extra rent payment is required to pay the landlord’s insurance or rates.
+An increased rent amount or fee is payable by the tenant if they fail to do something (eg, pay the rent on time).
+If the tenant misses a rent payment, they must pay all the rent owing up until the end of the tenancy.
+A 10% rent discount is available if tenants pay on time. 
+An extra rent payment is required to pay the landlord’s insurance or rates.
 
 For more examples see unenforceable and unlawful conditions.
 

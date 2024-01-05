@@ -1,4 +1,3 @@
-
 Making an application
 
 Applications can be made online on the Tenancy Services website or by completing a printed form. Forms can be picked up from or ordered from a Tenancy Services office or copies may be available from the nearest CAB  or Community Law Centre. Specialist tenant advocacy services also generally keep a stock on hand.
@@ -13,15 +12,14 @@ There are a number of sections to a Tenancy Tribunal application. Some tenants w
 The application is the place to explain what the issue is, what has happened so far, and what the tenant would like the Tribunal to do to resolve things.
 
 There is also a range of basic information that has to be provided. This includes:
-
-    Name of person making the application.
-    Address that applicant can be contacted (not necessarily address of current tenancy).
-    Name of landlord / property manager.
-    Contact details of landlord / property manager.
-    Address of tenancy that the application is about.
-    How many tenants and their names.
-    Whether there is the need for an interpreter.
-    Most of the information can be collected directly from the Tenancy Agreement. A copy of the tenancy agreement should also be supplied with the application, or if there isn’t a written agreement this should be noted.
+Name of person making the application.
+Address that applicant can be contacted (not necessarily address of current tenancy).
+Name of landlord / property manager.
+Contact details of landlord / property manager.
+Address of tenancy that the application is about.
+How many tenants and their names.
+Whether there is the need for an interpreter.
+Most of the information can be collected directly from the Tenancy Agreement. A copy of the tenancy agreement should also be supplied with the application, or if there isn’t a written agreement this should be noted.
 
 If the tenant wants to have their details hidden from the public record, they will need to request that their details not be published at the time they make their application. If certain criteria are met, their name and identifying details will be suppressed.
 Quick tip

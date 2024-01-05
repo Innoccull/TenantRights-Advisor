@@ -1,5 +1,3 @@
-
-
 Insulation stops warm air from moving through walls, floors and ceilings. It makes homes warmer in winter, and cooler in summer.
 
 Ceiling and underfloor insulation has been compulsory in all rental properties since 1 July 2019. There are some exceptions, eg, if the floor space is too low to be accessible.

@@ -1,13 +1,10 @@
-
-
 Tenancy mediation is available through Tenancy Services, and is often the first legal step taken to solve a dispute between landlords and tenants. If a tenant or landlord applies to the Tenancy Tribunal they will likely be asked to go to mediation before the case is referred to the Tribunal.
 
 If the tenant wants to access tenancy mediation services they will need to apply to the Tenancy Tribunal. If applying for mediation, the tenant should clearly state in their application that they wish for the matter to go to mediation first. However, even if they don’t do this the tenant and landlord will normally be offered mediation as the first step. The cost of the application to the Tenancy Tribunal is $20.44, which includes access to the mediation service.
 
 Although mediation is less formal than the Tenancy Tribunal it is still important for the tenant to prepare appropriately. This should include:
-
-    being clear about what solution the tenant wants
-    having access to any supporting documentation eg, rent records, correspondence, notices to remedy, etc
+being clear about what solution the tenant wants
+having access to any supporting documentation eg, rent records, correspondence, notices to remedy, etc
 
 Tenancy Services have a useful pre-mediation workbook which can help the tenant work through what they want to achieve in mediation.
 

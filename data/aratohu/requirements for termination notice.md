@@ -1,15 +1,12 @@
-
-
 In order to end a tenancy, a tenant or landlord must give the appropriate notice.
 What needs to be in a termination notice?
 
 There is no required format for this notice, however all notices must:
-
-    Be in writing
-    Give the address of the tenant
-    Give the date when the tenancy will end
-    If issued by the landlord, set out the reasons for the termination
-    Be signed by the person giving the notice
+Be in writing
+Give the address of the tenant
+Give the date when the tenancy will end
+If issued by the landlord, set out the reasons for the termination
+Be signed by the person giving the notice
 
 (s 51(3) RTA)
 

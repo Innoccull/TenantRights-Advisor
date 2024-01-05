@@ -1,4 +1,3 @@
-
 What is a periodic tenancy? 
 
 A periodic tenancy is ongoing, with no end date. It keeps going until either the tenant or landlord gives the appropriate notice following the rules in the Residential Tenancies Act.

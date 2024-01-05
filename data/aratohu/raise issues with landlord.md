@@ -1,5 +1,3 @@
-
-
 When problems arise in the tenancy it’s good to try to address these as soon as possible. Identifying issues early can make them easier to resolve. This is the case whether it’s about the landlord failing to fulfil their responsibilities (eg, carrying out repairs), the landlord breaching the tenant’s rights (eg, coming round without giving notice), or is a situation of the tenant themselves not meeting their obligations (eg, getting behind in rent).
 
 Generally, the best starting point is always to talk to the landlord to let them know there is a problem. Tenants and landlords can often resolve problems between themselves, or with the help of an advocate, without going to mediation or the Tenancy Tribunal. This approach will generally be less stressful and less time-consuming. 
@@ -10,7 +8,6 @@ Going through the steps in this booklet before raising the issue with the landlo
 The following diagram gives an overview of dealing with landlord breaches
 
 Below are some strategies to help tenants raise and resolve issues with landlords.
- 
 
 In order to make an effective complaint, it helps if the tenant has a good understanding of their legal rights and obligations, and those of their landlord. This will help the tenant to feel more confident when talking to the landlord about resolving the problem.
 
@@ -33,10 +30,9 @@ If the tenant has a phone call or face-to-face meeting with the landlord they sh
 Any agreement with the landlord should be dated and signed by both parties. The tenant should keep a copy.
 
 An agreement that work is to be done should include:
-
-    what work is going to be done
-    who will do the work (or who will organise for the work to be done)
-    who will pay for the work (including any details about how the costs of the work are being shared)
-    when the work will be complete.
+what work is going to be done
+who will do the work (or who will organise for the work to be done)
+who will pay for the work (including any details about how the costs of the work are being shared)
+when the work will be complete.
 
 The tenant could also ask the landlord to use the FastTrack Resolution service to formalise the agreement.

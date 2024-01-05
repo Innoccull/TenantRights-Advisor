@@ -1,4 +1,3 @@
-
 Damage caused when a tenant makes changes to the house or flat 
 
 In some situations tenants can ask to make changes to the property, such as renovations and attaching fixtures (eg, brackets for shelving). 

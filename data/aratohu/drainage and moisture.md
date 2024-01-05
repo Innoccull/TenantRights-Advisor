@@ -1,5 +1,3 @@
-
-
 Moisture in the home can be a large source of dampness and mould. This dampness can lead to poor health outcomes for tenants and can also cause the rental property to deteriorate more quickly.
 
 The healthy homes moisture ingress and drainage standard means that landlords have to ensure that the rental property has adequate guttering, drainage and downpipes to take away water.

@@ -1,5 +1,3 @@
-
-
 Outgoings are the expenses that come with owning a property (eg, rates) and living in it (eg, electricity bills).
 
 The landlord is responsible for paying for bills that must be paid whether or not a tenant is living there (s 39(1)(a) RTA). This includes rates, insurance (for the house and the landlord's chattels), and body corporate fees (s 39(2) RTA).
@@ -26,15 +24,13 @@ If there are leaks in a house or flat that have increased the tenant's water con
 If there is no fibre broadband already, tenants can ask their landlord to have it installed. Tenants can use this Tenancy Services request form to ask for broadband. 
 
 Landlords must: 
-
-    respond to the request within 21 days, and
-    allow broadband to be installed if it can be done at no cost to them (unless the exceptions below apply), and
-    take reasonable steps to make the installation happen within a reasonable period of time. 
+respond to the request within 21 days, and
+allow broadband to be installed if it can be done at no cost to them (unless the exceptions below apply), and
+take reasonable steps to make the installation happen within a reasonable period of time. 
 
 Landlords can refuse the request for a number of reasons, including because installation will: 
-
-    interrupt upcoming renovations or construction, or  
-    cause weather-tightness or structural issues to the building. 
+interrupt upcoming renovations or construction, or  
+cause weather-tightness or structural issues to the building. 
 
 A full list of exceptions can be found in section 45(B)(2) RTA. 
 

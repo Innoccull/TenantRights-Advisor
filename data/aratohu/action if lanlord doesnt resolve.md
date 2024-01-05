@@ -1,5 +1,3 @@
-
-
 After a tenant has asked their landlord to address an issue, the landlord should sort things out within a reasonable time period. What is reasonable will depend on the nature of the issue. For example, if work or repairs are required, it may take the landlord time to organise those.
 
 If the landlord hasn’t done anything within a reasonable timeframe, the tenant may want to check-in with the landlord. A polite follow-up discussion or email can sometimes result in action. If this doesn’t work the tenants can send the landlord a 14-day notice to remedy. 

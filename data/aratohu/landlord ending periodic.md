@@ -1,5 +1,3 @@
-
-
 The content in this section does not apply to boarding house tenancies which have their own rules about ending a tenancy.
 The landlord must have a valid reason to end the tenancy
 
@@ -37,10 +35,9 @@ Written confirmation from the Police that charges for assault have been filed.
 When issuing the notice, the landlord must advise the tenant in the notice that they have the right to challenge the notice through the Tenancy Tribunal. If the tenant does challenge the notice then the notice is suspended and the tenant can remain in the premises until the Tenancy Tribunal has heard the case. It will then be for the landlord to prove that the physical assault occurred.
 
 The Residential Tenancy Act applies to social housing providers, including Kāinga Ora and their tenants. This means they must comply with the requirements in relation to the reasons a tenancy can be ended, the notice period, and how notice is given. In addition to the reasons above, a social housing tenancy can also be ended (with 90 days notice) for a number of other reasons (s 53B(1) RTA). These are that:
-
-    the tenant is no longer eligible for social housing, or
-    a community housing provider ceases to be a registered community housing provider, or
-    the social housing provider requires the tenant to transfer to different social housing provided by that provider, and that the other housing is appropriate for the tenant’s housing needs as most recently assessed.
+the tenant is no longer eligible for social housing, or
+a community housing provider ceases to be a registered community housing provider, or
+the social housing provider requires the tenant to transfer to different social housing provided by that provider, and that the other housing is appropriate for the tenant’s housing needs as most recently assessed.
 
 A tenancy of Kāinga Ora can be ended with 90 days notice if the tenancy was granted before 14 April 2014.
 

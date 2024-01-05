@@ -1,5 +1,3 @@
-
-
 Fair wear and tear is the normal ageing and deterioration of things that happens over time when people live in a property. The landlord is responsible for addressing fair wear and tear (s 49A(2) RTA).
 
 Fair wear and tear is sometimes gradual (eg, carpets wearing thin), but it can also be minor damage from everyday activities (eg, scuff marks on walls), or old things wearing out (eg, door handles, stove elements or tap washers).
@@ -12,10 +10,9 @@ Table of fair wear and tear
 At the end of a tenancy, there can often be disputes about what is fair wear and tear and what is careless or intentional damage by the tenant.
 
 The law is clear on three things about fair wear and tear:
-
-    Damage due to fair wear and tear cannot be the result of intentional or careless actions by the tenant or their guests.
-    Fair wear and tear should relate to the normal and permitted activities of the tenant during the time they lived in the property.
-    It’s the landlord’s responsibility to prove that particular damage is not the result of fair wear and tear. On the other hand, it is for the tenant to prove that the damage was not caused intentionally, or by their carelessness, or imprisonable activities, or by other activities that are a breach of the tenancy agreement (e.g. keeping pets without permission or having more people in the flat than the tenancy agreement allows).
+Damage due to fair wear and tear cannot be the result of intentional or careless actions by the tenant or their guests.
+Fair wear and tear should relate to the normal and permitted activities of the tenant during the time they lived in the property.
+It’s the landlord’s responsibility to prove that particular damage is not the result of fair wear and tear. On the other hand, it is for the tenant to prove that the damage was not caused intentionally, or by their carelessness, or imprisonable activities, or by other activities that are a breach of the tenancy agreement (e.g. keeping pets without permission or having more people in the flat than the tenancy agreement allows).
 
 If a tenant doesn’t keep the place reasonably clean and tidy (s 40(1)(c) RTA), or leaves rubbish behind at the end of the tenancy (s 40(1)(e) RTA), this can contribute to wear and tear that is more rapid than would usually occur. If this is the case, the tenant may be asked to pay for the damage.
 

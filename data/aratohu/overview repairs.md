@@ -1,5 +1,3 @@
-
-
 When tenants are living in a property, there will inevitably be an impact on the condition of the property. Some of this will be the natural deterioration of things as they get used over time. However, there will also be times when things break, or are damaged.
 
 Table of liability for damage
@@ -11,16 +9,13 @@ If the problem is likely to cause injury to people or property, or is otherwise 
 Quick tip
 It’s a good idea to take photos of the damage at the time it is discovered, in case there is disagreement later on about the timing or extent of the damage.
 
-  
-
 There are a number of factors to consider to determine whether it’s the landlord’s or the tenant’s responsibility to pay for repairs. It will depend on:
-
-    who or what caused the damage,
-    how the damage was caused,
-    whether the damage was caused intentionally,
-    whether the damage caused through the tenant's carelessness,
-    when the damage occurred,
-    whether the type of damage is covered by the landlord’s insurance.
+who or what caused the damage,
+how the damage was caused,
+whether the damage was caused intentionally,
+whether the damage caused through the tenant's carelessness,
+when the damage occurred,
+whether the type of damage is covered by the landlord’s insurance.
 
 If the landlord and tenant cannot agree over who is responsible for the damage, either party can apply to the Tenancy Tribunal for a decision. For more details see Fair wear and tear.
 

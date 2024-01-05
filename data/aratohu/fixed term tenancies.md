@@ -10,16 +10,9 @@ The fixed term can be for any set period. In areas where there are a lot of stud
 
 If the tenancy agreement doesn’t include an end date or there is no written tenancy agreement, then it is likely to be considered a periodic tenancy, even if one of the parties believed otherwise.
 
-
-
 There are two types of fixed-term tenancies:
-
-    An ordinary fixed-term tenancy lasts for longer than 90 days and cannot be terminated early by giving notice (s 2 RTA).
-    A short fixed-term tenancy lasts for 90 days or less. It doesn’t matter whether it is able to be terminated by notice (s 7(3) RTA).
-
-
-
-
+An ordinary fixed-term tenancy lasts for longer than 90 days and cannot be terminated early by giving notice (s 2 RTA).
+A short fixed-term tenancy lasts for 90 days or less. It doesn’t matter whether it is able to be terminated by notice (s 7(3) RTA).
 
 There are a number of features of fixed-term tenancies that it’s good to be aware of:
 Fixed-term tenancies are difficult to end early
@@ -41,9 +34,7 @@ Even if there is such a clause, the rent can’t be increased sooner than 12 mon
 Tenancies for short fixed terms have slightly different rules
 
 A short fixed term tenancy lasts for 90 days or less. The rules for tenancies of a short fixed term are slightly different than an ordinary fixed-term tenancy.
-
-    A short fixed-term tenancy doesn’t automatically become a periodic tenancy after the end date. The tenancy will end and the tenant has to move out, unless they come to an agreement with the landlord.
-    If a short fixed-term tenancy is extended or renewed beyond 90 days, the rules for periodic tenancies will apply once the initial 90 days has ended (s 7(2) RTA).
-    Landlords can’t offer a short fixed-term tenancy as a trial period, to assess whether the tenant is suitable (s 7(2A) RTA). A clause in a tenancy agreement that says something like “This tenancy is for 90 days, and may be renewed after this at the landlord’s discretion.” will be in breach of this rule. A tenant or former tenant can apply to the Tribunal to have the tenancy extended or renewed (on whatever terms it thinks it fair) if the original tenancy was used as a trial period (s 7(2B) RTA).
-    You can’t go to the Tribunal to ask for a determination of market rent with a short fixed-term tenancy (s 7(1) RTA).
-
+A short fixed-term tenancy doesn’t automatically become a periodic tenancy after the end date. The tenancy will end and the tenant has to move out, unless they come to an agreement with the landlord.
+If a short fixed-term tenancy is extended or renewed beyond 90 days, the rules for periodic tenancies will apply once the initial 90 days has ended (s 7(2) RTA).
+Landlords can’t offer a short fixed-term tenancy as a trial period, to assess whether the tenant is suitable (s 7(2A) RTA). A clause in a tenancy agreement that says something like “This tenancy is for 90 days, and may be renewed after this at the landlord’s discretion.” will be in breach of this rule. A tenant or former tenant can apply to the Tribunal to have the tenancy extended or renewed (on whatever terms it thinks it fair) if the original tenancy was used as a trial period (s 7(2B) RTA).
+You can’t go to the Tribunal to ask for a determination of market rent with a short fixed-term tenancy (s 7(1) RTA).

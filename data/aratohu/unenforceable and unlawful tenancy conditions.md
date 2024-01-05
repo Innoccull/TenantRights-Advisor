@@ -1,14 +1,11 @@
-
-
 Sometimes landlords write clauses into tenancy agreements that are inconsistent with the law. These types of clauses are unenforceable, even if the tenant has agreed to them. In some cases, where the conditions the landlord is trying to apply are in clear breach of tenancy laws, the landlord’s actions may constitute an unlawful act.
 
 The Tenancy Tribunal treats seriously any landlord who enforces (or tries to enforce) unlawful conditions, and may make an order requiring the landlord to pay exemplary damages to the tenant because they have committed an unlawful act (s 109 RTA).
 
 Conditions in a tenancy agreement may be unenforceable or unlawful because:
-
-    they are different to the requirements of the RTA (except if they favour the tenant, then they are lawful), or
-    they try to remove or reduce the tenant’s rights, or 
-    they direct the tenant to do more than is legally required.
+they are different to the requirements of the RTA (except if they favour the tenant, then they are lawful), or
+they try to remove or reduce the tenant’s rights, or 
+they direct the tenant to do more than is legally required.
 
 The terms and conditions in the Tenancy Services Residential Tenancy Agreement have all been checked for lawfulness. This is why this agreement is usually the best option for tenants. Tenants starting a tenancy should ask the landlord if this agreement can be used as a template.
 What are some common unenforceable conditions?

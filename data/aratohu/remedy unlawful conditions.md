@@ -15,17 +15,14 @@ If a tenant agrees to an unlawful condition, or says that they are happy to waiv
 The best option will depend on...
 
 The best option for the tenant will depend on:
-
-    how important they think the condition is,
-    whether they’re comfortable following the unlawful condition in the meantime,
-    whether they feel comfortable asking the landlord to change the agreement, and
-    how difficult it may be for them to find another rental property if the landlord decides to withdraw their offer to rent to them.
+how important they think the condition is,
+whether they’re comfortable following the unlawful condition in the meantime,
+whether they feel comfortable asking the landlord to change the agreement, and
+how difficult it may be for them to find another rental property if the landlord decides to withdraw their offer to rent to them.
 
 If an agreement clearly contains unlawful conditions and the landlord refuses to change them or withdraws their offer to rent, you could ask the tenant for permission to make a complaint against the landlord with the Compliance and Investigations Team at Tenancy Services.
 
 We also have more suggestions about how to raise issues with a landlord.
-
- 
 
 If the tenancy agreement has already been signed, the tenant could:
 Seek agreement from the landlord to replace or remove the unlawful condition

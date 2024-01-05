@@ -1,5 +1,3 @@
-
-
 Landlords can ask tenants to pay up to two weeks rent in advance (s 23(1) RTA), and most landlords will do this. This counts as the tenant’s first rent payment. The landlord can’t ask for more rent until all of that rent has been used up.
 Some tenants find the concept of “rent in advance” confusing. A way to explain it is that it’s like paying money into a parking meter. You pay the money when you park, which covers the period from then until the money runs out. Then you pay again for the next period.
 
@@ -21,12 +19,11 @@ It is unlawful for a landlord to require the tenant to pay “key money” (s 17
 There are a range of different kinds of administration charges that a landlord might ask for at the beginning of the tenancy, which may in fact be illegal key money. Sometimes these are written in the tenancy agreement as conditions of the tenancy. Examples of unlawful conditions are listed here.
 
 Unlawful key money can also include:
-
-    reimbursement for landlord's expenses, insurance premiums, rates and other outgoings
-    one-off payments for additional chattels or other improvements
-    management fees
-    lockout fees and other financial penalties for certain behaviours
-    special conditions regarding rent.
+reimbursement for landlord's expenses, insurance premiums, rates and other outgoings
+one-off payments for additional chattels or other improvements
+management fees
+lockout fees and other financial penalties for certain behaviours
+special conditions regarding rent.
 
 Letting fees
 

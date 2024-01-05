@@ -1,5 +1,3 @@
-
-
 If a landlord does not comply with a Tenancy Tribunal order for costs, then the tenant may seek to enforce the debt.
 
 The process of enforcing orders is not straightforward, so a tenant may want an advocate to assist them to communicate with the landlord to try to get the debt paid, before taking enforcement action.

@@ -1,5 +1,3 @@
-
-
 There is no law that says how a landlord should decide how much rent to ask for. It’s generally set based on what the going rate is for similar tenancies in the same area.
 
 This is known as “market rent”. For information about market rent and how to challenge rent levels when you consider the rent to be excessive, see challenging rent levels.

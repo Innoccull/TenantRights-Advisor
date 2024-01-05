@@ -1,5 +1,3 @@
-
-
 Before applying to the Tenancy Tribunal, there are a number of things that it’s good to consider.
 
 It’s always a good starting point to first consider whether the tenant and landlord can resolve the issue informally. The parties may be able to sort things out by having a discussion and coming to an agreement. Sometimes a third party such as a tenant advocate, community lawyer, or social worker may be able to assist.

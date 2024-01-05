@@ -1,5 +1,3 @@
-
-
 There are different rules around notice, depending on the nature of the landlord’s intended visit.
 
 Table showing summar of legal reasons for landlord visits
@@ -12,12 +10,10 @@ The tenant may not necessarily be at home when consent is requested, eg, the lan
 The tenant’s permission must be "immediately before or at the time of entry". This means when the landlord is at the door, or shortly before they arrive. A tenant can’t give (and a landlord can’t claim) broad or blanket permission for the landlord to enter the property (eg, at any time, or over a period of days or weeks, or without the required notice). If they do, that permission is invalid and has no legal effect. This is because a tenant can’t waive their rights under the RTA (s 11(3) RTA).
 
 A tenant should feel able to refuse entry to the landlord if they show up at the door. It can be hard to do this in the moment, but some possible words the tenant could use are:
-
-    "We weren’t expecting your visit and now is not a convenient time for you to come in. Would you mind coming back [tomorrow / in a few days’ time]?"
+"We weren’t expecting your visit and now is not a convenient time for you to come in. Would you mind coming back [tomorrow / in a few days’ time]?"
 
 If the landlord insists on coming in the tenant could say:
-
-    "Are you aware of the notice requirements for a landlord visiting their tenants? It’s 24 hours for… and 48 hours for…. It would be great if you could come back then."
+"Are you aware of the notice requirements for a landlord visiting their tenants? It’s 24 hours for… and 48 hours for…. It would be great if you could come back then."
 
 A landlord can enter the house or flat at any time in the case of an emergency. No notice is required. The situation must be exceptional and urgent (s 48(2)(a) RTA).
 

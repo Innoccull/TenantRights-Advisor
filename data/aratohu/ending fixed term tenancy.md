@@ -1,13 +1,10 @@
-
-
 The rules for ending fixed-term tenancies that are explained on this page only apply to fixed-term tenancies entered into after 11 February 2021. For fixed term tenancies entered into before this, the previous law applies. See this information from Tenancy Services for details.
 Fixed-term tenancy generally converts to periodic at end of term
 
 Ordinary fixed-term tenancies automatically become periodic tenancies the day after the tenancy’s end date, unless:
-
-    the landlord and tenant agree otherwise, or
-    the tenant gives notice that they want the tenancy to come to an end (at least 28 days before the end of the term), or
-    the landlord gives notice to end the tenancy using one of the specified reasons (s 60A RTA).
+the landlord and tenant agree otherwise, or
+the tenant gives notice that they want the tenancy to come to an end (at least 28 days before the end of the term), or
+the landlord gives notice to end the tenancy using one of the specified reasons (s 60A RTA).
 
 Rules for short fixed term tenancies are slightly different.
 

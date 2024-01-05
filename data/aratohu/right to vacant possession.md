@@ -1,4 +1,3 @@
-
 The property must be physically empty
 
 A landlord must ensure the tenant has “vacant possession” of the house or flat when the tenancy begins (s 36 and 37 RTA). This means the tenant has the right to move into the property without the landlord, their family and friends or any other unwanted person being there.

@@ -1,5 +1,3 @@
-
-
 Property inspections during tenancies can be very stressful for tenants. This is especially the case when the landlord is not respectful of the fact that the property is the tenant’s home, or if the landlord has expectations around the presentation of the property that are over the top.
 
 A landlord can enter the house or flat between the hours of 8am and 7pm any day of the week to undertake a property inspection. A notice period of not less than 48 hours, and not more than 14 days, is required. Inspections are not allowed to be more often than once every four weeks (s 48(2)(b) RTA). While not ideal, it is lawful for the landlord to inspect the property when the tenant isn’t at home.

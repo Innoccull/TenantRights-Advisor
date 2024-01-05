@@ -1,5 +1,3 @@
-
-
 There are a number of reasons that a landlord and others need to access the inside of the house, including for regular inspections, repairs, and maintenance.
 
 The tenant doesn’t have to be at home when the landlord or their agent(s) enter, as long as the correct notice or consent has been given.

@@ -1,5 +1,3 @@
-
-
 Obviously, when the tenancy has been terminated, the tenant needs to leave. However, there are times when the tenant may be reluctant to leave, eg, because they don’t have other housing to go to.
 
 If the tenant remains in the property after a notice of termination by the landlord or an order by the Tenancy Tribunal to end a tenancy, then there are rules which govern what happens next (s 60 RTA). The tenant continues to have all the obligations of a tenant as if the tenancy was still in place, eg, they are still liable to pay the rent and observe the terms and conditions of the tenancy agreement.

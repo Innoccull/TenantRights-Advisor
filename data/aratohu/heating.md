@@ -1,5 +1,3 @@
-
-
 Under the healthy homes heating standard, landlords have to provide one or more fixed heaters in the main living room that can heat the room to at least 18˚C.
 
 The main living room is the largest room that is used for general, everyday living, eg, the lounge or dining room.

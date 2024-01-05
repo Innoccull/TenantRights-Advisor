@@ -1,5 +1,3 @@
-
-
 If a tenant is concerned about the amount of rent their landlord is charging they might first want to start by trying to negotiate with the landlord to bring the rent down to a reasonable level. There are tips on negotiating rent levels here. 
 
 If the tenant is unsuccessful in negotiating a rent reduction they might want to look at whether the rent is significantly more than what others are paying in similar rental properties in their area.
@@ -38,8 +36,7 @@ A 'rule of thumb' that has often been used in the Tenancy Tribunal is that rent 
 There is very little case law about what else can be considered. The Tribunal cannot take into consideration the tenant's or landlord’s personal circumstances, and rents paid by previous tenants for the property are not necessarily relevant.
 
 Things that have been, or may be, considered are:
-
-    Whether the rent appraisal for the property could have easily been influenced by the landlord (see Tenancy Tribunal order 4246581 at paragraph 14).
-    Whether the landlord’s return on investment is reasonable or excessive (see  Tenancy Tribunal Order 4235532, at paragraphs 33-34, 40-44).
-    The rate of increase in the rent in relation to the consumer price index (see  Tenancy Tribunal Order 4235532, at paragraphs 33-34, 40-44).
+Whether the rent appraisal for the property could have easily been influenced by the landlord (see Tenancy Tribunal order 4246581 at paragraph 14).
+Whether the landlord’s return on investment is reasonable or excessive (see  Tenancy Tribunal Order 4235532, at paragraphs 33-34, 40-44).
+The rate of increase in the rent in relation to the consumer price index (see  Tenancy Tribunal Order 4235532, at paragraphs 33-34, 40-44).
 

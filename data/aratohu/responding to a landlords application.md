@@ -1,15 +1,12 @@
-
-
 Where the landlord believes the tenant has breached the tenancy agreement they may decide to take the matter to the Tenancy Tribunal. Following are a number of steps to take when working out how to respond.
 
 If a tenant receives notice of an application by the landlord, it’s important to review all of the information provided by the landlord, and also whether the landlord may be saving any additional evidence for the hearing. Each claim by the landlord will be backed by evidence. If these claims are disputed by the tenant, they will need to provide evidence for their position.
 
 There are generally four main options when responding to a landlord’s Tenancy Tribunal application.
-
-    Reach an agreement with the landlord conditional on them withdrawing the application.
-    Get the matter referred to mediation first, instead of a Tribunal hearing.
-    Prepare to respond to the application, and / or
-    File a cross application against the landlord.
+Reach an agreement with the landlord conditional on them withdrawing the application.
+Get the matter referred to mediation first, instead of a Tribunal hearing.
+Prepare to respond to the application, and / or
+File a cross application against the landlord.
 
 As always, resolving the matter outside of a Tribunal hearing is preferable.
 

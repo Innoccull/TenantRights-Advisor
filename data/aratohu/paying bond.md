@@ -1,5 +1,3 @@
-
-
 A bond is a payment made by one party to another as a guarantee that the payer will perform a specified service or duty.
 
 In tenancy agreements a bond is paid by the tenant as a guarantee that they will meet their obligations under the agreement, and if they don't, to compensate the landlord out of the bond money for any costs to the landlord, eg, unpaid rent, or damage or loss caused by the tenant that has to be fixed when the tenancy ends (s 2 RTA).

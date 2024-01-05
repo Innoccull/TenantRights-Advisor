@@ -1,5 +1,3 @@
-
-
 The law says that tenants are entitled to the "quiet enjoyment" of their house or flat (s 38 RTA).
 What is quiet enjoyment?
 
@@ -14,10 +12,8 @@ Tenants must also make sure they don’t interfere with the peace, quiet and pri
 Examples of possible breaches of right to quiet enjoyment
 
 Common examples of when a tenant’s right to quiet enjoyment may be breached include:
-
-    Landlord visits that are too frequent (eg, this might be because of a combination of lawful inspections, unexpected visits, coming to collect rent, maintenance or gardening).
-    Threatening or aggressive behaviour by the landlord.
-    Tours of the house by prospective buyers, if the house is up for sale.
-    Renovations or building work that disturbs the tenant and are not part of the normal maintenance of the property.
-    The landlord’s other tenants are disturbing the tenant’s peace.
-
+Landlord visits that are too frequent (eg, this might be because of a combination of lawful inspections, unexpected visits, coming to collect rent, maintenance or gardening).
+Threatening or aggressive behaviour by the landlord.
+Tours of the house by prospective buyers, if the house is up for sale.
+Renovations or building work that disturbs the tenant and are not part of the normal maintenance of the property.
+The landlord’s other tenants are disturbing the tenant’s peace.

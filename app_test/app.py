@@ -8,28 +8,33 @@ from langchain.llms import HuggingFaceHub
 from langchain.embeddings import VoyageEmbeddings
 from dotenv import load_dotenv
 
+#load environment variables
 load_dotenv()
 
+# Load vector database 
 CHROMA_ADVICE_PATH = "chroma\\advice"
 
+#embedding_function = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+embedding_function = VoyageEmbeddings()
+advice_db = Chroma(persist_directory=CHROMA_ADVICE_PATH, embedding_function=embedding_function)
+
+# Load generative AI model
+model = HuggingFaceHub(repo_id="google/flan-t5-xxl", model_kwargs={"temperature": 0.5, "max_length": 512})
+
+# Create prompt template
 QUESTION_PROMPT_TEMPLATE = """
-Answer the question based only on the following context:
+Below is some context related to tenancy rights:
 
 {context}
 
 ---
 
-Answer the question and provide a rationale based on the above context: {question}
+Answer the below question succinctly based on the context provided. Provide a rationale for the answer provided.: {question}
 """
 
-# Submit propmt to model
-model = HuggingFaceHub(repo_id="google/flan-t5-xxl", model_kwargs={"temperature": 0.5, "max_length": 256})
 
-#embedding_function = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
-embedding_function = VoyageEmbeddings()
 
-advice_db = Chroma(persist_directory=CHROMA_ADVICE_PATH, embedding_function=embedding_function)
-
+# Dash application
 app = Dash(external_stylesheets=[dbc.themes.BOOTSTRAP],suppress_callback_exceptions=True)
 
 app.layout = html.Div([
@@ -125,23 +130,38 @@ def get_answer(n_clicks, input_value, query_prompt):
     else:
         advice_results = advice_db.similarity_search_with_relevance_scores(input_value, k=3)
 
-
         results = advice_results
 
-        print(results)
 
         # If no context results, create prompt without additional context
         if len(results) == 0 or results[0][1] < 0.75:
-            prompt_template = PromptTemplate.from_template(query_prompt)
-            prompt = prompt_template.format(context="", question=input_value)
+            response_text = "That is not a question that I was able to find a reliable answer for. Try rewording your question or you may check out the articles below to see if they answer your query."
+            prompt = "No prompt sent"
+            print(response_text)
         else:
         # If there are context results, create prompt with the context results included
-            context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
+            
+            sources = [doc[0].metadata['source'] for doc in results]
+
+            raw_source_text = []
+
+            for source in sources:
+                with open (source, 'r', encoding='utf-8') as file:
+                    article = file.read()
+                    raw_source_text.append(article)
+                file.close()
+
+            #sources_text = "\n\n---\n\n".join([source for source in raw_source_text])
+
+            print(results[0])
+
+            context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results if _score > 0.75])
+
             prompt_template = PromptTemplate.from_template(query_prompt)
             prompt = prompt_template.format(context=context_text, question=input_value)
 
-        #call the model with the prompt
-        response_text = model.predict(prompt)
+            #call the model with the prompt
+            response_text = model.predict(prompt)
 
         cards = [
         dbc.Col(
@@ -149,6 +169,7 @@ def get_answer(n_clicks, input_value, query_prompt):
                 [
                     html.P(f"Content: {item[0].page_content}", className="card-text", style={'color': 'black', 'padding': '5px'}),
                     html.P(f"Source: {item[0].metadata['source']}", className="card-text", style={'color': 'black', 'padding': '5px'}),
+                    html.P(f"Link: {item[0].metadata['link']}", className="card-text", style={'color': 'black', 'padding': '5px'}),
                     html.P(f"Score: {item[1]}", className="card-text", style={'color': 'black', 'padding': '5px'}),
                 ],  # Set text color to black
                 color="light",

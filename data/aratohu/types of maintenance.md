@@ -1,5 +1,3 @@
-
-
 Landlords and tenants have obligations around maintenance of particular aspects of a property, as outlined below.
 
 Landlords must meet all legal building, health, and safety requirements (s 45(1)(b) RTA). This includes keeping the plumbing, electrical wiring and structure of the house in good working order.

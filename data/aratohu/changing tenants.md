@@ -1,4 +1,3 @@
-
 Assignment of tenancy
 
 Sometimes it is possible for a tenant to end their tenancy by transferring their tenancy to another tenant (called assignment).
@@ -17,10 +16,9 @@ In the case of a periodic tenancy, it is generally a better option for the tenan
 What to do if the landlord withholds consent for assignment
 
 The landlord cannot unreasonably withhold consent to assign a tenancy to a new tenant. There are only a limited range of issues that the landlord should consider when deciding whether to withhold consent. These could include:
-
-    whether there is a reasonable basis for the tenant’s request
-    the impact on the landlord (eg, lost revenue, time, etc)
-    whether there are any problems with the new tenant eg, poor credit or references.
+whether there is a reasonable basis for the tenant’s request
+the impact on the landlord (eg, lost revenue, time, etc)
+whether there are any problems with the new tenant eg, poor credit or references.
 
 The tenant can mitigate the likelihood of a landlord withholding consent by addressing these issues when making the request to assign the tenancy. This might include providing references for the new tenant and offering to pay reasonable expenses.
 

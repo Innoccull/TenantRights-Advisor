@@ -1,13 +1,11 @@
-
 About the Residential Tenancies Act 1986
 
 The Residential Tenancies Act 1986 (RTA) sets out the basic protections for tenants renting houses and flats, and also tenants in boarding houses. The law applies in most situations where there is a tenancy (where rent is being paid in exchange for occupation) of residential premises (a place to live, rather than a place to do business) (s 4 RTA). Rent is usually the payment of money, but can include the exchange of goods and services for a place to stay (s 2 RTA).
 
 The RTA:
-
-    covers the relationship between landlords and tenants
-    defines the rights and responsibilities of landlords and tenants
-    provides a system for helping resolve tenancy disputes.
+covers the relationship between landlords and tenants
+defines the rights and responsibilities of landlords and tenants
+provides a system for helping resolve tenancy disputes.
 
 There have been many small amendments to the Act over the years, but some more substantial reforms have occurred in more recent times. These recent amendments reflect a recognition by the Government that rental laws have not been fit for purpose and that there has been a growing imbalance of power between landlords and tenants. 
 

@@ -1,11 +1,9 @@
-
 Consider why the tenant is in arrears
 
 In many situations, the tenant will have unintentionally ended up behind in paying their rent. Unintentional causes for rent arrears could be:
-
-    An issue with the timing of payments in and out of the tenant’s bank account
-    Unexpected and unavoidable expenses that have blown the tenant’s weekly budget, or
-    A problem with a flatmate not paying their share of the rent on time.
+An issue with the timing of payments in and out of the tenant’s bank account
+Unexpected and unavoidable expenses that have blown the tenant’s weekly budget, or
+A problem with a flatmate not paying their share of the rent on time.
 
 In other situations, the problems with paying rent may be more significant and ongoing, such as where the tenant has lost their job, or their rent has increased to a level that is no longer affordable.
 
@@ -16,7 +14,6 @@ Have an honest conversation with the tenant about what they want to do. It’s i
 Take action to get out of rent arrears
 
 There are a range of actions the tenant can be supported to take:
- 
 
 If the tenant has only recently fallen behind in their rent payments, encourage them to talk to their landlord about the situation as soon as possible. This gives the landlord the opportunity to consider the tenant’s circumstances and decide what approach they want to take. If it’s a one-off problem, and the tenant has a plan for how they can catch up on overdue rent, then the landlord is more likely to be receptive.
 
@@ -29,13 +26,11 @@ Quick tip
 Don’t get too caught up with trying to explain the reasons that the tenant has got into arrears and instead focus on what will give the landlord confidence that it will not be an ongoing problem. A part payment and a commitment to repay arrears within a short timeframe (eg, a few weeks) will often be enough to satisfy a reasonable landlord.
 
 Talk with the tenant about their financial situation and what their options are for getting on top of their rent payments. These could include:
-
-    Asking for help from friends or family.
-    Getting help with budgeting so they feel better able to manage their rent payments on an ongoing basis.
-    Finding out whether they are eligible for:
-        an Accommodation Supplement.
-        Rent Arrears Assistance, which is a one-off loan for tenants who have overdue rent to pay and risk losing their tenancy because of it.
-
+Asking for help from friends or family.
+Getting help with budgeting so they feel better able to manage their rent payments on an ongoing basis.
+Finding out whether they are eligible for:
+an Accommodation Supplement.
+Rent Arrears Assistance, which is a one-off loan for tenants who have overdue rent to pay and risk losing their tenancy because of it.
 any other financial assistance.
 
 An offer to pay rent arrears, even if it’s over time, may stop the landlord from applying to the Tenancy Tribunal for termination of the tenancy. If the tenant is able to reach an agreement with the landlord before the landlord takes things to the Tribunal, the tenant has a greater chance of remaining in their tenancy. If a repayment plan is successfully negotiated, the landlord may want to formalise the agreement through FastTrack Resolution.

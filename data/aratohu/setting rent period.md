@@ -1,4 +1,3 @@
-
 Frequency of rent payments
 
 A tenancy agreement must include details about the frequency of rent payments (s 13A(1)(k) RTA). Generally this will be weekly or fortnightly as a landlord can only ask for up to 2 weeks’ rent in advance at the start of the tenancy (s 23(1)(a) RTA). This is in addition to any bond payment which can be up to the equivalent of four weeks’ rent.

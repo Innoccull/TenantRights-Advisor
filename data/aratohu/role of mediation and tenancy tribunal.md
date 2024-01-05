@@ -1,5 +1,3 @@
-
-
 When problems arise with a landlord, it’s generally best if the tenant is able to talk to them directly, or with the support of an advocate, to see if they can resolve things. This approach is sometimes referred to as ‘self-resolution’ and will generally be less stressful and time-consuming than using formal dispute resolution options.
 
 However, if it’s clear that a landlord is breaching the tenancy agreement or failing to meet their legal obligations and the tenant has not had any success trying to sort things out, then going to mediation or using the Tenancy Tribunal can be a way of trying to resolve the dispute. The following flowchart shows strategies for dealing with landlord breaches.

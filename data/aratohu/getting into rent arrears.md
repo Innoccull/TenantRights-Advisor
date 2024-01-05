@@ -1,5 +1,3 @@
-
-
 The goal for any tenant is to stay on top of their rent payments and stay out of rent arrears. However, when a tenant does get behind with their rent payments, it’s important to work out what this means and how to deal with it. Ignoring the problem will only make matters worse and could result in the tenant losing their tenancy.
 What can happen if the tenant is in rent arrears?
 
