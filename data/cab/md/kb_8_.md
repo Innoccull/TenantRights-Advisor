@@ -1,0 +1,3 @@
+Does my tenancy agreement have to be in writing?
+
+Yes - all tenancy agreements must be in writing and must be signed by the landlord and the tenant. Find out what should be in a tenancy agreement.Make sure the landlord gives you a copy of the agreement before the tenancy starts. But you still have tenancy rights, even if you do not have a written agreement.Learn what it means if you do not have a written tenancy agreement.Find out more about tenancy agreements, on the Tenancy Services website.  Print 

@@ -1,65 +1,38 @@
-What can a tenant apply for?
+Types of Orders:
+The Tenancy Tribunal can issue various orders, including declarations, possession orders, monetary orders, and work orders.
 
-The Tenancy Tribunal can make a variety of orders, including but not limited to:
-A declaration of the legal status of any premises or agreement, or on the rights or obligations of any party
-An order that a party yield possession of any premises to any other party
-An order that a party pay money to any other party
-A work order
+Work Orders:
+Work orders address physical or structural problems in the property.
+Tenants should provide a comprehensive list of issues without specifying the date of discovery or estimated repair costs.
+Evidence of notifying the landlord about the problem, usually through a 14-day notice, is crucial.
 
-When making an application the tenant must be clear what sort of order they are applying for.
-Quick tip
-It can be helpful to search past Tenancy Tribunal decisions for similar situations to get a sense of what orders might be granted.
+Request for Compensation:
+Applied when the tenant faces costs or burdens due to the landlord's failure to meet obligations.
+Compensation can cover labor, materials, power or medical costs, and the value of lost or damaged property.
+Detailed breakdown of costs in the application is essential.
 
-A work order is where the Tribunal orders for the landlord to fix something on the property. These are often physical and structural problems with the home, or something that hasn’t been properly maintained. When applying for work orders, the tenant should provide a full list of issues to be fixed. The tenant does not have to provide the date of discovery or estimated costs of repairing.
+Exemplary Damages:
+Fines for breaching obligations, acting as a deterrent.
+Appropriate when there is a clear instance of an unlawful act.
 
-For this situation the tenant needs to have evidence that they have informed the landlord of the problem before making an application. Being able to show that a 14-day notice was given (and the issue has not been fixed) is the best evidence of this.
+Other Orders:
+Declaration that a tenancy is covered under the Residential Tenancies Act.
+Declaration that a notice to terminate the tenancy is unlawful.
+Early release from a fixed-term tenancy.
 
-A request for compensation is best used when the tenant has been left with a cost or burden due to the landlord not meeting their obligations. These can range from material and labour costs to the tenant, to psychological and stress-related harm.
+Tribunal Orders:
+Issued after a Tenancy Tribunal hearing, recording the decision made.
+Various orders may be issued based on the dispute.
 
-A tenant could apply for compensation where:
-the landlord’s actions in breaching the RTA have resulted in a cost to the tenant, or
-the tenant has done something (eg, paid for urgent repairs) the landlord should have done.
+Timeframe for Orders:
+Adjudicators rarely provide a timeframe; decisions may take at least a month or longer.
 
-When calculating the compensation that is being applied for, this might include:
-Labour costs for time repairing something the landlord failed to repair (labour time is usually awarded at a rate of $25 / hour).
-Materials costs for repairing something the landlord failed to repair.
-Compensation towards power or medical costs as a result of the landlord not maintaining the property.
-The value of the tenant’s property that has been lost or damaged due to the landlord not maintaining the property.
+Returning to Mediation:
+In some cases, the Tribunal may order the tenant and landlord to return to mediation.
 
-Quick tip
-Be sure to provide a reasonable amount of detail and breakdown of costs in the application to ensure that it can proceed. If there is not enough information, Tenancy Services will likely request further information before progressing the application.
+Searching Tribunal Orders:
+Tenancy Tribunal orders are generally available online for three years on the Ministry of Justice website.
+Public can search for orders using names, property addresses, or application numbers.
 
-Exemplary damages are fines for breaching obligations and are intended to act as a deterrent. They are not compensation, although they are awarded to the harmed party. Claiming exemplary damages should be used when there is a clear instance of an unlawful act. See the list of unlawful acts in Schedule 1A of the Residential Tenancies Act.
-
-In deciding whether to award exemplary damages, the Tribunal will take into account the:
-intent of that person in committing the unlawful act,
-effect of the unlawful act,
-interests of the landlord or the tenant against whom the unlawful act was committed,
-public interest.
-
-This for anything that the tenant would like the Tenancy Tribunal to make an order on that isn’t covered by one of the other sections.
-
-Other orders that a tenant may apply for include:
-A declaration that a tenancy is covered under the Residential Tenancies Act.
-A declaration that a notice to terminate the tenancy is unlawful and should be of no effect.
-To be released from a fixed term tenancy early.
-
-Tribunal orders
-
-After a Tenancy Tribunal hearing has happened, the Tribunal will issue an order (ie, a decision). Adjudicators rarely provide a timeframe for when a decision will be released, and this may take at least a month or longer.
-
-The order will record what happened at the hearing and will outline the decision made.
-
-There are a variety of different orders the Tribunal can make. For details see understanding Tenancy Tribunal orders.
-
-Depending on the dispute, the Tenancy Tribunal also has the option of ordering the tenant and landlord to go back to mediation. This is only going to be appropriate if it looks like the parties have a chance of working together to come to an agreement.
-Searching Tribunal orders
-
-Tenancy Tribunal orders are generally available to the public and are hosted on the Ministry of Justice website. Orders are available online for 3 years or a paper copy can be requested from the District Court where the Tenancy Tribunal hearing was held for a small fee.
-
-You can search for an order using:
-the name of the landlord, tenant, or other party
-the address of the property
-the application number.
-
-You can search for Tenancy Tribunal orders here.
+Tip for Applicants:
+It can be helpful to review past Tenancy Tribunal decisions for similar situations to understand potential outcomes.

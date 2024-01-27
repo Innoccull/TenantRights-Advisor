@@ -1,0 +1,18 @@
+What should be in a tenancy agreement?
+
+By law, a tenancy agreement must be in writing. The agreement must include certain minimum information as well as certain statements about the property.The minimum details for a tenancy agreement are:the full names of the landlord and tenant(s);
+contact addresses of the landlord and tenant(s);
+addresses for service (if different from their contact addresses);
+mobile phone numbers and email addresses (if they have them);
+the address of the rental property;
+the date the tenancy agreement is signed;
+the tenancy start date (and end date if it is a fixed term tenancy);
+whether the tenant is under 18 years;
+the amount of any bond to be paid;
+the amount and frequency of rent payments, and where they are to be paid; and
+any personal items or pieces of furniture provided by the landlord.
+Find out more about tenancy agreements on the Aratohu Tenant Advocate website. Templates for tenancy agreementsThe Tenancy Services website has templates landlords can download and use to create a residential tenancy agreement.Tenancy Services also has an online tenancy agreement builder. It takes 20-30 minutes to completeStatements that must be in a new tenancy agreementLandlords also have to include a number of signed statements with any new tenancy agreement. These are:An insulation statement - Tenancy agreements signed on or after 1 July 2016 must include a signed statement from the landlord about the location, type and condition of all insulation present in the premises. If the landlord has not been able to get this information their statement must say which information is missing, why the landlord does not have it, and confirm that they made all reasonable efforts to get it.Landlords can get an assessment of the insulation installed in their rental properties from an insulation provider.A Healthy Homes Standards compliance statement - Tenancy agreements signed on or after 1 July 2019 must include a signed statement from the landlord that the home meets the healthy homes standards, or that they will make the property meet the standards. This statement can be combined with the insulation statement.From 1 December 2020 most new or renewed tenancy agreements must include certain information about how well the rental property meets the healthy homes standards. Use this online tool to work out whether this applies to your rental property.An insurance statement – Tenancy agreements signed on or after 27 August 2019 must include a signed statement from the landlord about whether or not the property is insured and if it is, what any excess amount is for any policies relevant to the tenant’s liability for damage. The statement must also say that a copy of the insurance policy is available to the tenant if they ask for it.Templates for the statements are on the Tenancy Services website.Other things can be included in a tenancy agreement (but are not mandatory)A landlord can add extra conditions to the tenancy agreement, but not just anything they want.For example, they can add a condition about:whether tenants can smoke in the house
+the maximum number of people that can live in the house
+keeping pets on the property
+meth testing
+Learn more about conditions a landlord can add to the tenancy agreement, on the Tenancy Services website.It is a good idea to attach a property inspection report to the tenancy agreement recording any issues with the property before the tenancy starts.  Print 

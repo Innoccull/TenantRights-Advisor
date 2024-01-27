@@ -47,8 +47,10 @@ def get_response(input_text):
     else:
     # If there are context results, create prompt with the context results included
         
+        # Get sources for the results
         sources = [doc[0].metadata['source'] for doc in results]
 
+        # Get the complete text for the source result
         raw_source_text = []
 
         for source in sources:
@@ -61,11 +63,11 @@ def get_response(input_text):
 
         context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results if _score > 0.75])
 
+        # Create prompt with context
         prompt_template = PromptTemplate.from_template(QUESTION_PROMPT_TEMPLATE)
-
         prompt = prompt_template.format(context=context_text, question=input_text)
 
-        #call the model with the prompt
+        # Call the model with the prompt
         response_text = model.predict(prompt)
 
     return response_text, advice_results

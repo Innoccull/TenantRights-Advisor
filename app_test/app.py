@@ -6,6 +6,7 @@ from langchain.prompts import PromptTemplate
 from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from langchain.llms import HuggingFaceHub
 from langchain.embeddings import VoyageEmbeddings
+import os
 from dotenv import load_dotenv
 
 #load environment variables
@@ -32,6 +33,8 @@ Below is some context related to tenancy rights:
 Answer the below question succinctly based on the context provided. Provide a rationale for the answer provided.: {question}
 """
 
+# Advice directory
+summaries_directory = "data//aratohu_summaries//"
 
 
 # Dash application
@@ -128,7 +131,11 @@ def get_answer(n_clicks, input_value, query_prompt):
     if(input_value is None):
         return ""
     else:
+        print(input_value)
+        
         advice_results = advice_db.similarity_search_with_relevance_scores(input_value, k=3)
+
+        print(advice_results)
 
         results = advice_results
 
@@ -137,7 +144,6 @@ def get_answer(n_clicks, input_value, query_prompt):
         if len(results) == 0 or results[0][1] < 0.75:
             response_text = "That is not a question that I was able to find a reliable answer for. Try rewording your question or you may check out the articles below to see if they answer your query."
             prompt = "No prompt sent"
-            print(response_text)
         else:
         # If there are context results, create prompt with the context results included
             
@@ -153,12 +159,12 @@ def get_answer(n_clicks, input_value, query_prompt):
 
             #sources_text = "\n\n---\n\n".join([source for source in raw_source_text])
 
-            print(results[0])
-
             context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results if _score > 0.75])
 
             prompt_template = PromptTemplate.from_template(query_prompt)
-            prompt = prompt_template.format(context=context_text, question=input_value)
+            prompt = prompt_template.format(context=raw_source_text[0], question=input_value)
+
+            response_text = ""
 
             #call the model with the prompt
             response_text = model.predict(prompt)
