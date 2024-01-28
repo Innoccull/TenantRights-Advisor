@@ -13,11 +13,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Load vector database 
-CHROMA_ADVICE_PATH = "chroma\\advice"
+CHROMA_ADVICE_PATH = "app_test\\chroma\\advice"
 
 #embedding_function = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
 embedding_function = VoyageEmbeddings()
 advice_db = Chroma(persist_directory=CHROMA_ADVICE_PATH, embedding_function=embedding_function)
+
 
 # Load generative AI model
 model = HuggingFaceHub(repo_id="google/flan-t5-xxl", model_kwargs={"temperature": 0.5, "max_length": 512})
@@ -31,6 +32,25 @@ Below is some context related to tenancy rights:
 ---
 
 Answer the below question succinctly based on the context provided. Provide a rationale for the answer provided.: {question}
+"""
+
+SUMMARY_PROMPT_TEMPLATE = """
+
+You are an advisor on tenancy rights. 
+Your task is to step back and paraphrase a question from a tenant to a more generic step-back question so that is easier to answer in reference to tenancy law. 
+
+Here are a few examples:
+Original Question: Which position did Knox Cunningham hold from May 1955 to Apr 1956?
+Stepback Question: Which positions have Knox Cunning- ham held in his career?
+
+Original Question: Who was the spouse of Anna Karina from 1968 to 1974?
+Stepback Question: Who were the spouses of Anna Karina?
+
+Original Question: Which team did Thierry Audel play for from 2007 to 2008?
+Stepback Question: Which teams did Thierry Audel play for in his career
+---
+
+{question}
 """
 
 # Advice directory

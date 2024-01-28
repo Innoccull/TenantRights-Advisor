@@ -2,8 +2,10 @@
     "questions": [
       {
         "id": 1,
-        "title": "Do fish count as pets in a tenancy?",
-        "text": "Hi, I wanted to get a tiny simple aquarium with 3 small fish, I went to a specialty store that has complete kits and got a quote for one that is one level up from the smallest/most basic. But I'm unclear as to whether this counts as having a pet, do I need to seek permission from the landlord?"
+        "orig_title": "Do fish count as pets in a tenancy?",
+        "orig_text": "Hi, I wanted to get a tiny simple aquarium with 3 small fish, I went to a specialty store that has complete kits and got a quote for one that is one level up from the smallest/most basic. But I'm unclear as to whether this counts as having a pet, do I need to seek permission from the landlord?",
+        "refined_text": "",
+        "answer": ""
       },
       {
         "id": 2,
@@ -94,7 +96,28 @@
         "id": 18,
         "title": "Emptying bins",
         "text": "Do I need to empty bins at the end of a tenancy?"
+      },
+      {
+        "id": 19,
+        "title": "Landlord wants to renovate then sell house.",
+        "text" : "So I've lived in this house for almost 3 years and ever since i have lived here the owners get renovations done while im still living here and sometimes doesn't tell me what work theyre gonna do until the builder calls me and gives me a heads up, So i got this feeling they were trying do it up then sell it which i found out is true. For 2 years I've asked why the bond hasnt been lodged and im just told that they will get onto it i paid 2000 which included first weeks rent, Called bond agency yesterday and found out they still havent lodged it, The home is also not up to healthy home standards took me 2 years to get AC in the house, theres fire hazards with installation around old lights and water damage around lights (one night it was raining and smoke alarms went off but i couldnt find where it was coming from but could smell like a burning hair straightener smell), orange mold under the house with no protection layed down on dirt so the molds just sitting ontop of the dirt and no seal around the latch/ piece of wooden board in wardrobe that lets you see under the house, no extractor fan in bathroom, and on top of that curtains had mold when i first moved in so i bought new curtains as i tried to steam shark the mold out of old curtains but it didnt work, also had to clean the house and repaint and plaster before moving in ,also windows aren't double glazed so condensation gets so bad that i have to wipe every window down with upto three towels and run 2 or 3 dehumidifiers just to help it not get moldy, black mold in the toilet if you lift off the top lid, my pool table was in the garage with other items and the owner did a fix it himself clear light job on the roof of garage and it leaked and wrecked my things in the garage. The list goes on and on but this week the landlord gave me 2 days notice and threw all these laws at me saying they want work done and appraisal to happen, im now over it and would like to hear other peoples advice on what i should do? bond agency told me to ring tribunal and i would like to but kind of wondering what next steps would be etc. So any advice?, and thanks for helping or taking your time to read this long rant :)"
+      },
+      {
+        "id" : 20,
+        "title": "",
+        "text":"Hello I need some clarity when it comes to my tenancy agreement. So I found a couple to take over my agreement, the effective date it starts today (23rd of January) it also says that I will “cease to be responsible to the landlord for the obligations imposed” after the effective date. In the lease they put only one of them as the tenant taking over, they asked me if this was fine and I said sure. They began to move in when the old tenants became aware that it was a couple moving in, demanding they pay an extra $45 in rent. Now they are trying to get out of the agreement even after everyone signing and agreeing to the new contract. I’m just wondering if I will be held liable to pay if they do get out of the agreement and if I’m not does the tenancy have any grounds to withhold my bond because of the situation."
+      },
+      {
+        "id": 21,
+        "title": "My landlords want to cut down THREE fully grown Pohutukawa trees on the property I rent - is there anything I can do to stop them?",
+        "text": "My landlords are out of their minds and have been cutting down trees on the property left right and center, sometimes for seemingly no sane reason. Recently they cut down a tree down to the stump and placed a shitty bench over the top of it cause they felt it looked better. They just informed me they are cutting down three Pohutukawa trees by the end of the month - mind you these are fully grown huge Pohutukawa trees. Is there anything I can do to stop them? I live in Miramar if that matters. HELP! Bout ready to chain myself to the trees."
+      },
+      {
+        "id": 22,
+        "orig_title": "Flatmates not paying damage or rent",
+        "orig_text": "I have two terrible flatmates who are not on the tenancy and I'm stuck in a pickle. I have handed in my 28 days notice as we are on a periodic tenancy. There is one other tenant on the tenancy who is fine and paying his rent. The flatmates have damaged my car and the garage with their van and are refusing to pay the landlord for the damages to his shed. Is there any way to use their bond for this? They are also refusing to pay any rent or bills as the rent went up by $50 last week. They knew about this 60 days in advance and didn't say anything about it then. Can I kick them out if they keep refusing to pay any rent? Can I use their bond to pay their share of the rent and bills in the meantime too? Any help would be appreciated :)",
+        "refined_text": "",
+        "answer": "Kia ora, If you don't have a flatting agreement with these flatmates, then there is no requirement about giving notice to a flatmate. You can find out more in our article What is reasonable notice when a flatmate wants to leave - or is asked to leave - a flat? Typically in a flatting situation a flatmate would pay the 'head tenant' the bond money with some sort of agreement about how and when it is returned. In most cases it would legitimate to use this bond money to cover unpaid rent or damage, see our article What happens to bond money that flatmates pay to tenant flatmates? From what you have said it sounds like the bond money might have been dealt with differently here, and if that's the case I'd suggest giving us a call on 0800 367 222 to help you untangle it."
       }
     ]
   }
-  

@@ -50,15 +50,20 @@ def split_text(documents: list[Document]):
         try:
             link = data_dict[file_name_without_extension]
         except KeyError:
-            link = "www.cab.org.nz"
+            print(file_name_without_extension)
+            link = "www.cab.org.nz/article/" + file_name_without_extension
+
+            print(link)
 
         chunk.metadata['link'] = link
+
         
     print(f"Split {len(documents)} documents into {len(chunks)} chunks.")
 
     return chunks
 
 def save_to_chroma(chunks: list[Document], CHROMA_PATH):
+
     # Clear out the database first.
     if os.path.exists(CHROMA_PATH):
         shutil.rmtree(CHROMA_PATH)
@@ -71,6 +76,7 @@ def save_to_chroma(chunks: list[Document], CHROMA_PATH):
     db = Chroma.from_documents(
         chunks, embedding_function, persist_directory=CHROMA_PATH
     )
+
     db.persist()
     print(f"Saved {len(chunks)} chunks to {CHROMA_PATH}.")
 
