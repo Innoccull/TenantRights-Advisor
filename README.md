@@ -64,22 +64,6 @@ The end-to-end flow for this solution is:
 ### Step-back query
 A step-back query is where an LLM is used to create a more generic version of a user query. The idea behind this is that a more generic version of the user query will provide a better match to the documents in the vector database. Below is an example of how a step back query can be requested from an LLM.
 
-------
-
-You are an expert at world knowledge. 
-Your task is to step back and paraphrase a question to a more generic 
-step-back question, which is easier to answer. 
-
-Here are a few examples:
-Original Question: Which position did Knox Cunningham hold from May 1955 to Apr 1956?
-Stepback Question: Which positions have Knox Cunning- ham held in his career?
-
-Original Question: Who was the spouse of Anna Karina from 1968 to 1974?
-Stepback Question: Who were the spouses of Anna Karina?
-
-Original Question: Which team did Thierry Audel play for from 2007 to 2008?
-Stepback Question: Which teams did Thierry Audel play for in his career
-
 
 ### Expanded context window
 The default approach for a vector database is to store chunks of source documents to match against and pass as context to an LLM. A chunk will generally be a single sentence or paragraph within a document. 
@@ -90,7 +74,6 @@ Expanding the context window involves expanding on the chunk so that increased c
 The table below describes the contents of this repository.
 
 | app_prod  | The Tenancy Helper application, implemented as a dash app that utilises a chroma vector database for information retrieval and calls out to Google Gemini API via Langchain for generating a step-back query and generating an answer.                                                                                    |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | app_test  | A test version of the tenancy helper application. This test version uses the same chroma vector database and aalso utilises Google Gemini LLM. Where it differs is that it provides a user interface to alter the query sent to the LLM so different versions of the query sent to the LLM could be tested.               |
 | assets    | Stores PNG files used in the README file.                                                                                                                                                                                                                                                                                 |
 | chroma    | Chroma is the vector database used in this application. This stores the chroma database created by the script create_database.py                                                                                                                                                                                          |
