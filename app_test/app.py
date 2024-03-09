@@ -8,6 +8,7 @@ from langchain.llms import HuggingFaceHub
 from langchain.embeddings import VoyageEmbeddings
 import os
 from dotenv import load_dotenv
+from langchain_google_genai import GoogleGenerativeAI
 
 #load environment variables
 load_dotenv()
@@ -21,17 +22,24 @@ advice_db = Chroma(persist_directory=CHROMA_ADVICE_PATH, embedding_function=embe
 
 
 # Load generative AI model
-model = HuggingFaceHub(repo_id="google/flan-t5-xxl", model_kwargs={"temperature": 0.5, "max_length": 512})
+# model = HuggingFaceHub(repo_id="google/flan-t5-xxl", model_kwargs={"temperature": 0.5, "max_length": 512})
+model = GoogleGenerativeAI(model="gemini-pro")
 
 # Create prompt template
 QUESTION_PROMPT_TEMPLATE = """
-Below is some context related to tenancy rights:
+You are an advisor on tenancy rights. Below is some context related to tenancy rights:
 
 {context}
 
 ---
 
-Answer the below question succinctly based on the context provided. Provide a rationale for the answer provided.: {question}
+You have received the below query from a tenant seeking to understand their rights.
+
+{query}
+
+---
+
+The following stepback question is a summary of the essential question being asked by the tenant. Answer this question based on the context and original query provided. Provide the answer as a conversational response.: {question}
 """
 
 SUMMARY_PROMPT_TEMPLATE = """
@@ -39,9 +47,25 @@ SUMMARY_PROMPT_TEMPLATE = """
 You are an advisor on tenancy rights. 
 Your task is to step back and paraphrase a question from a tenant to a more generic step-back question so that is easier to answer in reference to tenancy law. 
 
+
+Here are a few examples:
+Original Question: Which position did Knox Cunningham hold from May 1955 to Apr 1956?
+Stepback Question: Which posiYou are an advisor on tenancy rights. 
+Your task is to step back and paraphrase a question from a tenant to a more generic step-back question so that is easier to answer in reference to tenancy law. 
+
+
 Here are a few examples:
 Original Question: Which position did Knox Cunningham hold from May 1955 to Apr 1956?
 Stepback Question: Which positions have Knox Cunning- ham held in his career?
+
+Original Question: Who was the spouse of Anna Karina from 1968 to 1974?
+Stepback Question: Who were the spouses of Anna Karina?
+
+Original Question: Which team did Thierry Audel play for from 2007 to 2008?
+Stepback Question: Which teams did Thierry Audel play for in his career
+---
+
+{question}tions have Knox Cunning- ham held in his career?
 
 Original Question: Who was the spouse of Anna Karina from 1968 to 1974?
 Stepback Question: Who were the spouses of Anna Karina?
@@ -141,9 +165,10 @@ def get_summary(n_clicks, summarise, input_value, summary_prompt):
      Output('relevant_advice', 'children')],
     [Input('btn_get_response', 'n_clicks')],
     [State('sum_query_text', 'children'),
+     State(component_id='raw_query', component_property='value'),
      State('query_prompt', 'value')]
 )
-def get_answer(n_clicks, input_value, query_prompt):
+def get_answer(n_clicks, input_value, raw_query, query_prompt):
 
     if(n_clicks is None):
         raise PreventUpdate
@@ -151,17 +176,12 @@ def get_answer(n_clicks, input_value, query_prompt):
     if(input_value is None):
         return ""
     else:
-        print(input_value)
-        
         advice_results = advice_db.similarity_search_with_relevance_scores(input_value, k=3)
-
-        print(advice_results)
 
         results = advice_results
 
-
         # If no context results, create prompt without additional context
-        if len(results) == 0 or results[0][1] < 0.75:
+        if len(results) == 0 or results[0][1] < 0.70:
             response_text = "That is not a question that I was able to find a reliable answer for. Try rewording your question or you may check out the articles below to see if they answer your query."
             prompt = "No prompt sent"
         else:
@@ -182,12 +202,14 @@ def get_answer(n_clicks, input_value, query_prompt):
             context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results if _score > 0.75])
 
             prompt_template = PromptTemplate.from_template(query_prompt)
-            prompt = prompt_template.format(context=raw_source_text[0], question=input_value)
+            prompt = prompt_template.format(context=raw_source_text[0], question=input_value, query=raw_query)
+
+            print(prompt)
 
             response_text = ""
 
             #call the model with the prompt
-            response_text = model.predict(prompt)
+            response_text = model.invoke(prompt)
 
         cards = [
         dbc.Col(

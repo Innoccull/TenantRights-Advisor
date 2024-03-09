@@ -25,7 +25,7 @@
       {
         "id": 5,
         "title": "Notice Period",
-        "text": "How much notice do I need to give for a tenancy?"
+        "text": "How much notice do I need to end a periodic tenancy?"
       },
       {
         "id": 6,
@@ -118,6 +118,20 @@
         "orig_text": "I have two terrible flatmates who are not on the tenancy and I'm stuck in a pickle. I have handed in my 28 days notice as we are on a periodic tenancy. There is one other tenant on the tenancy who is fine and paying his rent. The flatmates have damaged my car and the garage with their van and are refusing to pay the landlord for the damages to his shed. Is there any way to use their bond for this? They are also refusing to pay any rent or bills as the rent went up by $50 last week. They knew about this 60 days in advance and didn't say anything about it then. Can I kick them out if they keep refusing to pay any rent? Can I use their bond to pay their share of the rent and bills in the meantime too? Any help would be appreciated :)",
         "refined_text": "",
         "answer": "Kia ora, If you don't have a flatting agreement with these flatmates, then there is no requirement about giving notice to a flatmate. You can find out more in our article What is reasonable notice when a flatmate wants to leave - or is asked to leave - a flat? Typically in a flatting situation a flatmate would pay the 'head tenant' the bond money with some sort of agreement about how and when it is returned. In most cases it would legitimate to use this bond money to cover unpaid rent or damage, see our article What happens to bond money that flatmates pay to tenant flatmates? From what you have said it sounds like the bond money might have been dealt with differently here, and if that's the case I'd suggest giving us a call on 0800 367 222 to help you untangle it."
+      },
+      {
+        "id": 23,
+        "orig_title": "Looking for urgent tenancy law advice regarding uninhabitable property-ie: we've moved out and have 3 days to find somewhere and we have to pay.",
+        "orig_text": "So our rental house was recently painted, and the painters did not follow due process and exposed us all to lead paint. It was pretty shitty really, as they insisted they didn't need to test first (despite the age of our house being over 80+years), and proceeded to remove old lead paint with heat guns and electric sanders. Filling our house, carpet, windowsills and basically everywhere-with lead paint dust. I was the one who tested the paint and discovered it was lead based. So we all moved out that day at the advice of our landlord. We've all been tested for lead poisoning. Cut a long story short: -We moved out a week ago and have been in an Air B n B paid for by the landlord while the situation was assessed for contamination. We have stopped paying rent. -As the situation evolves legally, and with Worksafe etc-we received a phone call last night that said as we aren't paying rent-it's 'goodwill' for us to seek alternative accommodation and pay for it ourselves asap. That our landlord is receiving no 'income' from us right now, and its unfair to expect them to pay for somewhere for us to live. Also that any chattels are our own responsibility if they are contaminated (contents insurance) -They have no date as yet for when the house can be decontaminated (waiting on insurance) and we can move back. We now feel pretty shit, and even more vulnerable when we live in central wellington and even the CHEAPEST Air B n B's are like $1400 a week! I have 2 kids and another adult. I can't phone Tenancy Services until Monday, and they must have known that as the property manager phoned me at 7pm last night. I need advice, and any help please...Urgently.",
+        "refined_text": "",
+        "answer": ""
+      },
+      {
+        "id": 24,
+        "orig_title": "Looking for urgent tenancy law advice regarding uninhabitable property-ie: we've moved out and have 3 days to find somewhere and we have to pay.",
+        "orig_text": "So our rental house was recently painted, and the painters did not follow due process and exposed us all to lead paint. It was pretty shitty really, as they insisted they didn't need to test first (despite the age of our house being over 80+years), and proceeded to remove old lead paint with heat guns and electric sanders. Filling our house, carpet, windowsills and basically everywhere-with lead paint dust. I was the one who tested the paint and discovered it was lead based. So we all moved out that day at the advice of our landlord. We've all been tested for lead poisoning. Cut a long story short: -We moved out a week ago and have been in an Air B n B paid for by the landlord while the situation was assessed for contamination. We have stopped paying rent. -As the situation evolves legally, and with Worksafe etc-we received a phone call last night that said as we aren't paying rent-it's 'goodwill' for us to seek alternative accommodation and pay for it ourselves asap. That our landlord is receiving no 'income' from us right now, and its unfair to expect them to pay for somewhere for us to live. Also that any chattels are our own responsibility if they are contaminated (contents insurance) -They have no date as yet for when the house can be decontaminated (waiting on insurance) and we can move back. We now feel pretty shit, and even more vulnerable when we live in central wellington and even the CHEAPEST Air B n B's are like $1400 a week! I have 2 kids and another adult. I can't phone Tenancy Services until Monday, and they must have known that as the property manager phoned me at 7pm last night. I need advice, and any help please...Urgently.",
+        "refined_text": "",
+        "answer": ""
       }
     ]
   }

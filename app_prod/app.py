@@ -7,6 +7,7 @@ from langchain.prompts import PromptTemplate
 from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from langchain.llms import HuggingFaceHub
 from langchain.embeddings import VoyageEmbeddings
+from langchain_google_genai import GoogleGenerativeAI
 from dotenv import load_dotenv
 
 #load environment variables
@@ -20,7 +21,8 @@ embedding_function = VoyageEmbeddings()
 advice_db = Chroma(persist_directory=CHROMA_ADVICE_PATH, embedding_function=embedding_function)
 
 # Load generative AI model
-model = HuggingFaceHub(repo_id="google/flan-t5-xxl", model_kwargs={"temperature": 0.5, "max_length": 512})
+# model = HuggingFaceHub(repo_id="google/flan-t5-xxl", model_kwargs={"temperature": 0.5, "max_length": 512})
+model = GoogleGenerativeAI(model="gemini-pro")
 
 conversation_history = []
 
@@ -32,7 +34,13 @@ You are an advisor on tenancy rights. Below is some context related to tenancy r
 
 ---
 
-Answer the below question from a tenant seeking to understand their rights based on the context provided. Provide a rationale for the answer provided.: {question}
+You have received the below query from a tenant seeking to understand their rights.
+
+{query}
+
+---
+
+The following stepback question is a summary of the essential question being asked by the tenant. Answer this question based on the context and original query provided. Answer in a conversational style.: {question}
 """
 
 SUMMARY_PROMPT_TEMPLATE = """
@@ -60,14 +68,12 @@ def get_refined_query(input_text):
     prompt_template = PromptTemplate.from_template(SUMMARY_PROMPT_TEMPLATE)
     prompt = prompt_template.format(question = input_text)
 
-    refined_query = model.predict(prompt)
-
-    print(refined_query)
+    refined_query = model.invoke(prompt)
 
     return (refined_query)
 
 # Function to get a response to a user's query
-def get_response(input_text):
+def get_response(input_text, orig_query):
     # Process the input_text and generate the response
     advice_results = advice_db.similarity_search_with_relevance_scores(input_text, k=3)
 
@@ -98,12 +104,12 @@ def get_response(input_text):
 
         # Create prompt with context
         prompt_template = PromptTemplate.from_template(QUESTION_PROMPT_TEMPLATE)
-        prompt = prompt_template.format(context=context_text, question=input_text)
+        prompt = prompt_template.format(context=raw_source_text[0], question=input_text, query=orig_query)
 
         print(prompt)
 
         # Call the model with the prompt
-        response_text = model.predict(prompt)
+        response_text = model.invoke(prompt)
 
     return response_text, advice_results
 
@@ -279,7 +285,7 @@ def update_output(n_clicks, input_text):
         conversation_history.append(input_text)
 
         refined_query = get_refined_query(input_text)
-        response, sources = get_response(refined_query)
+        response, sources = get_response(refined_query, input_text)
 
         conversation_history.append(response)
 

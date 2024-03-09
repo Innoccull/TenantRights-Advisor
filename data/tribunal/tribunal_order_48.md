@@ -1,3 +1,0 @@
-A landlord decided to rent her place to two groups of people (one couple, and another man). They had come to the flat viewing but didn’t know each other before this. They only signed one tenancy agreement, but the agreement divided the rent between each individual and said “Based on special individual rates, 3 rooms have beds provided.” The man’s behaviour became threatening, so the couple wanted to shift out.
-The Tenancy Tribunal agreed with the couple that it was a room-by-room tenancy and they were only liable to pay their portion of the rent. The Tribunal also allowed the couple to exit their fixed term tenancy early. This did not impact on the other tenants because the Tribunal found that they all had separate tenancies.
-Tenancy Tribunal order 4167394 4169182.

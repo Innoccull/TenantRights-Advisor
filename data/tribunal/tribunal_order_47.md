@@ -1,2 +1,0 @@
-In a Rotorua case, the Tenancy Tribunal found that two landlords intentionally tried to get around the provisions of the Residential Tenancies Act by calling their tenants “flatmates”, even though neither of the landlords lived there. The Tribunal found that it was in fact a room-by-room tenancy, despite the fact that none of the tenants had been given a written tenancy agreement. The Tribunal awarded $2,170.44 against the landlords for various breaches of the Act.
-Tenancy Tribunal Order 4203973

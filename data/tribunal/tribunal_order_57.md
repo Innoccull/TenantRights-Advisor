@@ -1,3 +1,0 @@
-The tenant signed a fixed-term tenancy agreement but when they went to the property, the landlord had left a significant amount of belongings in the garages and shed as well as rubbish and materials around the property. The Tribunal found that the tenant was entitled to not take possession. The lack of action by the landlord showed the tenant they didn’t intend to meet their contractual obligations, and meant that the tenant had the right to cancel the agreement.
- 
-Tenancy Tribunal Order 4268226, 4243792 paras [44] - [61].
