@@ -86,11 +86,24 @@ The default approach for a vector database is to store chunks of source document
 
 Expanding the context window involves expanding on the chunk so that increased context is passed to the LLM answering the question. In this solution the entire document from the matched chunk is retireved and included in the prompt for generating a response.
 
+## Included in this repository
+The table below describes the contents of this repository.
+
+| app_prod  | The Tenancy Helper application, implemented as a dash app that utilises a chroma vector database for information retrieval and calls out to Google Gemini API via Langchain for generating a step-back query and generating an answer.                                                                                    |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| app_test  | A test version of the tenancy helper application. This test version uses the same chroma vector database and aalso utilises Google Gemini LLM. Where it differs is that it provides a user interface to alter the query sent to the LLM so different versions of the query sent to the LLM could be tested.               |
+| assets    | Stores PNG files used in the README file.                                                                                                                                                                                                                                                                                 |
+| chroma    | Chroma is the vector database used in this application. This stores the chroma database created by the script create_database.py                                                                                                                                                                                          |
+| data      | Stores data used in the application. The aratohu and cab folders include the knowledge articles used to create the vector database. The queries folder contains sample queries sourced from online that were used to test the application. The file source_links.json includes links to the source of knowledge articles. |
+| notebooks | Store notebooks utilised. The notebook scrape_CAB.ipynb includes code used to scrape knowledge articles from CAB.                                                                                                                                                                                                         |
+| scripts   | Scripts used in the application. create_database.py includes code to create the chroma databased used in the application.                                                                                                                                                                                                 |
+
 
 ## Prompt Templates
 Below are the prompt templates used in the solution.
 
 ### Step-back query prompt
+
 You are an advisor on tenancy rights. 
 Your task is to step back and paraphrase a question from a tenant to a more generic step-back question so that is easier to answer in reference to tenancy law. 
 
@@ -103,7 +116,6 @@ Stepback Question: Who were the spouses of Anna Karina?
 
 Original Question: Which team did Thierry Audel play for from 2007 to 2008?
 Stepback Question: Which teams did Thierry Audel play for in his career
----
 
 {question}
 
@@ -113,12 +125,12 @@ You are an advisor on tenancy rights. Below is some context related to tenancy r
 
 {context}
 
----
 
 You have received the below query from a tenant seeking to understand their rights.
 
 {query}
 
----
 
-The following stepback question is a summary of the essential question being asked by the tenant. Answer this question based on the context and original query provided. Answer in a conversational style.: {question}
+The following stepback question is a summary of the essential question being asked by the tenant. Answer this question based on the context and original query provided. Answer in a conversational style.: 
+
+{question}
