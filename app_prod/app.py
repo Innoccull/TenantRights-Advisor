@@ -106,8 +106,6 @@ def get_response(input_text, orig_query):
         prompt_template = PromptTemplate.from_template(QUESTION_PROMPT_TEMPLATE)
         prompt = prompt_template.format(context=raw_source_text[0], question=input_text, query=orig_query)
 
-        print(prompt)
-
         # Call the model with the prompt
         response_text = model.invoke(prompt)
 
