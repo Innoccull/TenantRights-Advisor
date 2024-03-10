@@ -6,15 +6,15 @@ In the application a user can enter a query related to tenancy rights and will b
 
 The image below shows the user interface for TenantRights Advisor.
 
-![Alt](/assets/base.png "")
+![Alt](/assets/base.png "base")
 
 The below images show the results output by TenantRights Advisor in response to several user queries.
 
-![Alt](/assets/curtains.png "")
+![Alt](/assets/curtains.png "curtains")
 
-![Alt](/assets/fish.png "")
+![Alt](/assets/fish.png "fish")
 
-![Alt](/assets/selling.png "")
+![Alt](/assets/selling.png "selling")
 
 ## RAG
 
