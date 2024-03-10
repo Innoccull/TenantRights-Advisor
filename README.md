@@ -1,9 +1,20 @@
-# Retrieval Augmented Generation for Tenancy Rights
+# TenantRights Advisor
 
+TenantRights Advisor is an application that utilises Retrieval Augmented Generation (RAG) to answer tenant queries regarding their rights.
 
-Retrieval Augmented Generation (RAG) is an AI framework for retrieving facts from an external knowledge base to ground LLMs on the most accurate, up-to-date information and to give users insight into Large Language Model (LLM) generative process.
+In the application a user can enter a query related to tenancy rights and will be provided an answer to their query along with a link to an external source for where the answer to that query was retrieved from.
 
-This project creates a RAG solution to support people to understand their tenancy rights.
+The image below shows the user interface for TenantRights Advisor.
+
+![Alt](/assets/base.png "")
+
+The below images show the results output by TenantRights Advisor in response to several user queries.
+
+![Alt](/assets/curtains.png "")
+
+![Alt](/assets/fish.png "")
+
+![Alt](/assets/selling.png "")
 
 ## RAG
 
