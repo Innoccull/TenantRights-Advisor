@@ -208,13 +208,11 @@ app.layout = dbc.Container(
             ),
             dbc.Col(
                 [
-                html.H5("Sources"),
+                html.H5("Source"),
                 dbc.Card(
                     dbc.ListGroup(
                         [
-                            dbc.ListGroupItem(dcc.Link(id='card-1-link1', href='#', target='_blank', className='card-link')),
-                            dbc.ListGroupItem(dcc.Link(id='card-1-link2', href='#', target='_blank', className='card-link')),
-                            dbc.ListGroupItem(dcc.Link(id='card-1-link3', href='#', target='_blank', className='card-link')),
+                            dbc.ListGroupItem(dcc.Link(id='card-1-link1', href='#', target='_blank', className='card-link'))
                         ],
                         flush=True,
                     ),
@@ -265,8 +263,6 @@ app.layout = dbc.Container(
 @app.callback(
     [Output('output-text-container', 'children'),
      Output('card-1-link1', 'href'),
-     Output('card-1-link2', 'href'),
-     Output('card-1-link3', 'href'),
      Output('original-query-container', 'children'),
      Output('refined-query-container', 'children'),
      Output('original-query-row', 'style'),
@@ -291,14 +287,12 @@ def update_output(n_clicks, input_text):
 
         # Extracting content and link data for each card
         card1_link1 = sources[0][0].metadata['link']
-        card1_link2 = sources[1][0].metadata['link']
-        card1_link3 = sources[2][0].metadata['link']
         
         display_style = {'fontSize': '18px', 'color': 'white', 'display': 'flex'} 
 
-        return response, card1_link1, card1_link2, card1_link3, input_text, refined_query, display_style, display_style, display_style, display_style
+        return response, card1_link1, input_text, refined_query, display_style, display_style, display_style, display_style
     else:
-        return [], '', '', '', '', '', hide_style, hide_style, hide_style, hide_style
+        return [], '', '', '', hide_style, hide_style, hide_style, hide_style
 
 if __name__ == '__main__':
     app.run_server(debug=True)
