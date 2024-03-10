@@ -120,7 +120,7 @@ app.layout = dbc.Container(
     children=[
         dbc.Row(
             dbc.Col(
-                html.H1("Tenancy Helper", style={'color': 'white'}),
+                html.H1("TenantRights Advisor", style={'color': 'white'}),
                 width=12,
                 className="mb-4 mt-4 text-center"
             )
@@ -134,7 +134,7 @@ app.layout = dbc.Container(
                 dbc.Card(
                 dbc.CardBody(
                     [
-                        html.H5("Question"),
+                        html.H5("Original question"),
                         html.Div(id='original-query-container')
                     ]
                 ),
@@ -158,7 +158,7 @@ app.layout = dbc.Container(
                 dbc.Card(
                 dbc.CardBody(
                     [
-                        html.H5("Refined question"),
+                        html.H5("Refined questions"),
                         html.Div(id='refined-query-container', 
                                  style={'fontSize': '18px', 'color': 'white'})
                     ]
@@ -239,7 +239,7 @@ app.layout = dbc.Container(
                     id='input-text',
                     type='text',
                     value='',
-                    placeholder='Enter your query here',
+                    placeholder='Enter your tenancy related query here',
                     style={'width': '100%', 'margin': '0 auto', 'padding': '15px', 'fontSize': '18px', 'borderRadius': '5px', 'backgroundColor': '#2e2e2e', 'color': 'white', 'border': '1px solid #555'},
                 ),
                 width=7,
